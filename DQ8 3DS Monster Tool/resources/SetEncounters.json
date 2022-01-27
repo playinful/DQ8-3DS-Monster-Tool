@@ -1,0 +1,658 @@
+{
+  "00": {
+    "ID": "00",
+    "Content": "none"
+  },
+  "01": {
+    "ID": "01",
+    "Content": "slime knight, healslime"
+  },
+  "02": {
+    "ID": "02",
+    "Content": "hipster, witch"
+  },
+  "03": {
+    "ID": "03",
+    "Content": "mummy boy x2, mummy x2, mummy boy x2"
+  },
+  "04": {
+    "ID": "04",
+    "Content": "infernal armour, cureslime"
+  },
+  "05": {
+    "ID": "05",
+    "Content": "khalamari kid x3, king squid x2, khalamari kid x3"
+  },
+  "06": {
+    "ID": "06",
+    "Content": "tentacular, khalamari kid x4, king squid"
+  },
+  "07": {
+    "ID": "07",
+    "Content": "treeface x2, treevil x2, treeface x2"
+  },
+  "08": {
+    "ID": "08",
+    "Content": "cureslime, notso macho"
+  },
+  "09": {
+    "ID": "09",
+    "Content": "mummy boy x3, blood mummy x3, mummy x3"
+  },
+  "0A": {
+    "ID": "0A",
+    "Content": "buffalogre, mohawker"
+  },
+  "0B": {
+    "ID": "0B",
+    "Content": "liquid metal slime x3, metal king slime, liquid metal slime x3"
+  },
+  "0C": {
+    "ID": "0C",
+    "Content": "gigantes, stone guardian"
+  },
+  "0D": {
+    "ID": "0D",
+    "Content": "dark macarbour x2, treevil x2, treeface x2"
+  },
+  "0E": {
+    "ID": "0E",
+    "Content": "lethal armour, curselime x2"
+  },
+  "0F": {
+    "ID": "0F",
+    "Content": "goodybag, night emperor, goodybag"
+  },
+  "10": {
+    "ID": "10",
+    "Content": "bag o' laughs, puppeteer, bag o' laughs"
+  },
+  "11": {
+    "ID": "11",
+    "Content": "winky, puppeteer, winky"
+  },
+  "12": {
+    "ID": "12",
+    "Content": "jum, mum, boh, boe"
+  },
+  "13": {
+    "ID": "13",
+    "Content": "kee, jab, ber, woc"
+  },
+  "14": {
+    "ID": "14",
+    "Content": "right wing, head of state, body politic, left wing"
+  },
+  "15": {
+    "ID": "15",
+    "Content": "jum, boe"
+  },
+  "16": {
+    "ID": "16",
+    "Content": "Red Horn, Blue Fang"
+  },
+  "17": {
+    "ID": "17",
+    "Content": "none"
+  },
+  "18": {
+    "ID": "18",
+    "Content": "none"
+  },
+  "19": {
+    "ID": "19",
+    "Content": "none"
+  },
+  "1A": {
+    "ID": "1A",
+    "Content": "none"
+  },
+  "1B": {
+    "ID": "1B",
+    "Content": "none"
+  },
+  "1C": {
+    "ID": "1C",
+    "Content": "none"
+  },
+  "1D": {
+    "ID": "1D",
+    "Content": "none"
+  },
+  "1E": {
+    "ID": "1E",
+    "Content": "none"
+  },
+  "1F": {
+    "ID": "1F",
+    "Content": "slime, slime, slime [opening]"
+  },
+  "20": {
+    "ID": "20",
+    "Content": "hammerhood (miniboss)"
+  },
+  "21": {
+    "ID": "21",
+    "Content": "Geyzer"
+  },
+  "22": {
+    "ID": "22",
+    "Content": "Bangerz, Mash"
+  },
+  "23": {
+    "ID": "23",
+    "Content": "Khalamari"
+  },
+  "24": {
+    "ID": "24",
+    "Content": "tortured soul"
+  },
+  "25": {
+    "ID": "25",
+    "Content": "trap box"
+  },
+  "26": {
+    "ID": "26",
+    "Content": "soul mole x2, Don Mole, soul mole x2"
+  },
+  "27": {
+    "ID": "27",
+    "Content": "Argon lizard"
+  },
+  "28": {
+    "ID": "28",
+    "Content": "Argon lizard"
+  },
+  "29": {
+    "ID": "29",
+    "Content": "Argon lizard"
+  },
+  "2A": {
+    "ID": "2A",
+    "Content": "great Argon lizard"
+  },
+  "2B": {
+    "ID": "2B",
+    "Content": "sea dragon"
+  },
+  "2C": {
+    "ID": "2C",
+    "Content": "Dhoulmagus (1st form)"
+  },
+  "2D": {
+    "ID": "2D",
+    "Content": "Dhoulmagus (2nd form)"
+  },
+  "2E": {
+    "ID": "2E",
+    "Content": "Evil Jessica"
+  },
+  "2F": {
+    "ID": "2F",
+    "Content": "hellhound (scripted) x8"
+  },
+  "30": {
+    "ID": "30",
+    "Content": "hellhound (scripted) x5"
+  },
+  "31": {
+    "ID": "31",
+    "Content": "hellhound (scripted) x3"
+  },
+  "32": {
+    "ID": "32",
+    "Content": "hellhound (scripted) x3"
+  },
+  "33": {
+    "ID": "33",
+    "Content": "hellhound (scripted) x8"
+  },
+  "34": {
+    "ID": "34",
+    "Content": "Captain Crow"
+  },
+  "35": {
+    "ID": "35",
+    "Content": "Red Horn (boss), Blue Fang (boss)"
+  },
+  "36": {
+    "ID": "36",
+    "Content": "Empyrea"
+  },
+  "37": {
+    "ID": "37",
+    "Content": "dark turkey, Gemon, dark condor"
+  },
+  "38": {
+    "ID": "38",
+    "Content": "Evil Sir Leopold"
+  },
+  "39": {
+    "ID": "39",
+    "Content": "Marcello"
+  },
+  "3A": {
+    "ID": "3A",
+    "Content": "king squid (Baccarat)"
+  },
+  "3B": {
+    "ID": "3B",
+    "Content": "boss troll (boss) x2"
+  },
+  "3C": {
+    "ID": "3C",
+    "Content": "Rhapthorne (1st form)"
+  },
+  "3D": {
+    "ID": "3D",
+    "Content": "dancing flame (Citadel), servant of darkness (Citadel), dancing flame (Citadel)"
+  },
+  "3E": {
+    "ID": "3E",
+    "Content": "statue of Jessica, statue of Hero, statue of Yangus, statue of Angelo"
+  },
+  "3F": {
+    "ID": "3F",
+    "Content": "megalodon x2"
+  },
+  "40": {
+    "ID": "40",
+    "Content": "Ruin"
+  },
+  "41": {
+    "ID": "41",
+    "Content": "Rhapthorne (barrier)"
+  },
+  "42": {
+    "ID": "42",
+    "Content": "Rhapthorne (2nd form)"
+  },
+  "43": {
+    "ID": "43",
+    "Content": "Lord of the Dragovians (dragon)"
+  },
+  "44": {
+    "ID": "44",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "45": {
+    "ID": "45",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "46": {
+    "ID": "46",
+    "Content": "none"
+  },
+  "47": {
+    "ID": "47",
+    "Content": "none"
+  },
+  "48": {
+    "ID": "48",
+    "Content": "none"
+  },
+  "49": {
+    "ID": "49",
+    "Content": "none"
+  },
+  "4A": {
+    "ID": "4A",
+    "Content": "none"
+  },
+  "4B": {
+    "ID": "4B",
+    "Content": "none"
+  },
+  "4C": {
+    "ID": "4C",
+    "Content": "The Slimeys"
+  },
+  "4D": {
+    "ID": "4D",
+    "Content": "Team Face Off"
+  },
+  "4E": {
+    "ID": "4E",
+    "Content": "The Bully Brothers"
+  },
+  "4F": {
+    "ID": "4F",
+    "Content": "The Fisher Kings"
+  },
+  "50": {
+    "ID": "50",
+    "Content": "Hell's Bells"
+  },
+  "51": {
+    "ID": "51",
+    "Content": "The Red Barons"
+  },
+  "52": {
+    "ID": "52",
+    "Content": "The Prison Pussycats"
+  },
+  "53": {
+    "ID": "53",
+    "Content": "The Fiend Family"
+  },
+  "54": {
+    "ID": "54",
+    "Content": "The Dirty Dancers"
+  },
+  "55": {
+    "ID": "55",
+    "Content": "Team Nightmare"
+  },
+  "56": {
+    "ID": "56",
+    "Content": "The Deadheads"
+  },
+  "57": {
+    "ID": "57",
+    "Content": "The Psyche-os"
+  },
+  "58": {
+    "ID": "58",
+    "Content": "The Beach Babes"
+  },
+  "59": {
+    "ID": "59",
+    "Content": "Bad Science"
+  },
+  "5A": {
+    "ID": "5A",
+    "Content": "Battle Royals"
+  },
+  "5B": {
+    "ID": "5B",
+    "Content": "The Drag Queens"
+  },
+  "5C": {
+    "ID": "5C",
+    "Content": "The Tough Nuts"
+  },
+  "5D": {
+    "ID": "5D",
+    "Content": "The Rock 'n' Rollers"
+  },
+  "5E": {
+    "ID": "5E",
+    "Content": "The Big Boys"
+  },
+  "5F": {
+    "ID": "5F",
+    "Content": "The Wild Cats"
+  },
+  "60": {
+    "ID": "60",
+    "Content": "Fear Factor"
+  },
+  "61": {
+    "ID": "61",
+    "Content": "Taloon's Treasures"
+  },
+  "62": {
+    "ID": "62",
+    "Content": "Healie's Heelies"
+  },
+  "63": {
+    "ID": "63",
+    "Content": "Morrie's Glories"
+  },
+  "64": {
+    "ID": "64",
+    "Content": "Axoraptor, Shortshooter, One Knight Stand"
+  },
+  "65": {
+    "ID": "65",
+    "Content": "cannibox"
+  },
+  "66": {
+    "ID": "66",
+    "Content": "mimic"
+  },
+  "67": {
+    "ID": "67",
+    "Content": "Pandora's box"
+  },
+  "68": {
+    "ID": "68",
+    "Content": "Lord of the Dragovians {Dragon Form}"
+  },
+  "69": {
+    "ID": "69",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "6A": {
+    "ID": "6A",
+    "Content": "vermillion dragon"
+  },
+  "6B": {
+    "ID": "6B",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "6C": {
+    "ID": "6C",
+    "Content": "emerald dragon"
+  },
+  "6D": {
+    "ID": "6D",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "6E": {
+    "ID": "6E",
+    "Content": "silver dragon"
+  },
+  "6F": {
+    "ID": "6F",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "70": {
+    "ID": "70",
+    "Content": "golden dragon"
+  },
+  "71": {
+    "ID": "71",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "72": {
+    "ID": "72",
+    "Content": "darksteel dragon"
+  },
+  "73": {
+    "ID": "73",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "74": {
+    "ID": "74",
+    "Content": "divine dragon"
+  },
+  "75": {
+    "ID": "75",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "76": {
+    "ID": "76",
+    "Content": "vermillion dragon (final trial)"
+  },
+  "77": {
+    "ID": "77",
+    "Content": "emerald dragon (final trial)"
+  },
+  "78": {
+    "ID": "78",
+    "Content": "silver dragon (final trial)"
+  },
+  "79": {
+    "ID": "79",
+    "Content": "golden dragon (final trial)"
+  },
+  "7A": {
+    "ID": "7A",
+    "Content": "darksteel dragon (final trial)"
+  },
+  "7B": {
+    "ID": "7B",
+    "Content": "divine dragon (final trial)"
+  },
+  "7C": {
+    "ID": "7C",
+    "Content": "ultimate dragon"
+  },
+  "7D": {
+    "ID": "7D",
+    "Content": "mumboh-jumboe"
+  },
+  "7E": {
+    "ID": "7E",
+    "Content": "jabberwockee"
+  },
+  "7F": {
+    "ID": "7F",
+    "Content": "democrobot"
+  },
+  "80": {
+    "ID": "80",
+    "Content": "coffer of death"
+  },
+  "81": {
+    "ID": "81",
+    "Content": "The Bash Brigade"
+  },
+  "82": {
+    "ID": "82",
+    "Content": "Double or Nothing"
+  },
+  "83": {
+    "ID": "83",
+    "Content": "The Battle Bunnies"
+  },
+  "84": {
+    "ID": "84",
+    "Content": "none"
+  },
+  "85": {
+    "ID": "85",
+    "Content": "none"
+  },
+  "86": {
+    "ID": "86",
+    "Content": "none (default)"
+  },
+  "87": {
+    "ID": "87",
+    "Content": "phoenix, great keeper, phoenix"
+  },
+  "88": {
+    "ID": "88",
+    "Content": "great keeper x4"
+  },
+  "89": {
+    "ID": "89",
+    "Content": "Juggerwroth (1st form)"
+  },
+  "8A": {
+    "ID": "8A",
+    "Content": "Juggerwroth (2nd form)"
+  },
+  "8B": {
+    "ID": "8B",
+    "Content": "Geyzer in Memoriam"
+  },
+  "8C": {
+    "ID": "8C",
+    "Content": "Tortured Soul in Mem."
+  },
+  "8D": {
+    "ID": "8D",
+    "Content": "Trap Box in Memoriam"
+  },
+  "8E": {
+    "ID": "8E",
+    "Content": "Soul Mole in Memoriam x2, Don Mole in Memoriam, Soul Mole in Memoriam x2"
+  },
+  "8F": {
+    "ID": "8F",
+    "Content": "Argon Lizard in Mem."
+  },
+  "90": {
+    "ID": "90",
+    "Content": "Dhoulmagus in Mem. (1st form), Dhoulmagus in Mem. (1st form), Dhoulmagus in Mem. (1st form)"
+  },
+  "91": {
+    "ID": "91",
+    "Content": "Dhoulmagus in Memoriam (2nd form)"
+  },
+  "92": {
+    "ID": "92",
+    "Content": "Evil Jessica in Mem."
+  },
+  "93": {
+    "ID": "93",
+    "Content": "Captain Crow in Mem."
+  },
+  "94": {
+    "ID": "94",
+    "Content": "Dark Turkey in Mem., Gemon in Memoriam, Darkbird in Memoriam"
+  },
+  "95": {
+    "ID": "95",
+    "Content": "Sir Leopold in Mem."
+  },
+  "96": {
+    "ID": "96",
+    "Content": "Marcello in Memoriam"
+  },
+  "97": {
+    "ID": "97",
+    "Content": "Dancing Flame in Mem., Dark Servant in Mem., Dancing Flame in Mem."
+  },
+  "98": {
+    "ID": "98",
+    "Content": "Ruin in Memoriam"
+  },
+  "99": {
+    "ID": "99",
+    "Content": "Estark"
+  },
+  "9A": {
+    "ID": "9A",
+    "Content": "Skeleton in Memoriam, Walking Corpse in Mem."
+  },
+  "9B": {
+    "ID": "9B",
+    "Content": "Shadow in Memoriam"
+  },
+  "9C": {
+    "ID": "9C",
+    "Content": "crème caraslime"
+  },
+  "9D": {
+    "ID": "9D",
+    "Content": "dead bowdy"
+  },
+  "9E": {
+    "ID": "9E",
+    "Content": "morrimp"
+  },
+  "9F": {
+    "ID": "9F",
+    "Content": "gold nugcat"
+  },
+  "A0": {
+    "ID": "A0",
+    "Content": "cherreevil blossom"
+  },
+  "A1": {
+    "ID": "A1",
+    "Content": "Santaclops"
+  },
+  "A2": {
+    "ID": "A2",
+    "Content": "box of tricks"
+  },
+  "A3": {
+    "ID": "A3",
+    "Content": "none"
+  }
+}

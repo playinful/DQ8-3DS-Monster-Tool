@@ -1,0 +1,2334 @@
+{
+  "0000": {
+    "ID": "0000",
+    "Content": "none"
+  },
+  "0001": {
+    "ID": "0001",
+    "Content": "slime"
+  },
+  "0002": {
+    "ID": "0002",
+    "Content": "candy cat"
+  },
+  "0003": {
+    "ID": "0003",
+    "Content": "lips"
+  },
+  "0004": {
+    "ID": "0004",
+    "Content": "dracky"
+  },
+  "0005": {
+    "ID": "0005",
+    "Content": "satyr"
+  },
+  "0006": {
+    "ID": "0006",
+    "Content": "capsichum"
+  },
+  "0007": {
+    "ID": "0007",
+    "Content": "bunicorn"
+  },
+  "0008": {
+    "ID": "0008",
+    "Content": "she-slime"
+  },
+  "0009": {
+    "ID": "0009",
+    "Content": "mischievous mole"
+  },
+  "000A": {
+    "ID": "000A",
+    "Content": "mecha-mynah"
+  },
+  "000B": {
+    "ID": "000B",
+    "Content": "bubble slime"
+  },
+  "000C": {
+    "ID": "000C",
+    "Content": "dancing devil"
+  },
+  "000D": {
+    "ID": "000D",
+    "Content": "bodkin archer"
+  },
+  "000E": {
+    "ID": "000E",
+    "Content": "skipper"
+  },
+  "000F": {
+    "ID": "000F",
+    "Content": "drackmage"
+  },
+  "0010": {
+    "ID": "0010",
+    "Content": "beetleboy"
+  },
+  "0011": {
+    "ID": "0011",
+    "Content": "imp"
+  },
+  "0012": {
+    "ID": "0012",
+    "Content": "funghoul"
+  },
+  "0013": {
+    "ID": "0013",
+    "Content": "fencing fox"
+  },
+  "0014": {
+    "ID": "0014",
+    "Content": "healslime"
+  },
+  "0015": {
+    "ID": "0015",
+    "Content": "hammerhood"
+  },
+  "0016": {
+    "ID": "0016",
+    "Content": "jailcat"
+  },
+  "0017": {
+    "ID": "0017",
+    "Content": "frogface"
+  },
+  "0018": {
+    "ID": "0018",
+    "Content": "lump mage"
+  },
+  "0019": {
+    "ID": "0019",
+    "Content": "winky"
+  },
+  "001A": {
+    "ID": "001A",
+    "Content": "spiked hare"
+  },
+  "001B": {
+    "ID": "001B",
+    "Content": "chainine"
+  },
+  "001C": {
+    "ID": "001C",
+    "Content": "giant moth"
+  },
+  "001D": {
+    "ID": "001D",
+    "Content": "dingaling"
+  },
+  "001E": {
+    "ID": "001E",
+    "Content": "jargon"
+  },
+  "001F": {
+    "ID": "001F",
+    "Content": "drackyma"
+  },
+  "0020": {
+    "ID": "0020",
+    "Content": "bullfinch"
+  },
+  "0021": {
+    "ID": "0021",
+    "Content": "bag o' laughs"
+  },
+  "0022": {
+    "ID": "0022",
+    "Content": "skeleton"
+  },
+  "0023": {
+    "ID": "0023",
+    "Content": "metal slime"
+  },
+  "0024": {
+    "ID": "0024",
+    "Content": "scorpion"
+  },
+  "0025": {
+    "ID": "0025",
+    "Content": "Morphean mushroom"
+  },
+  "0026": {
+    "ID": "0026",
+    "Content": "brownie"
+  },
+  "0027": {
+    "ID": "0027",
+    "Content": "flyguy"
+  },
+  "0028": {
+    "ID": "0028",
+    "Content": "puppeteer"
+  },
+  "0029": {
+    "ID": "0029",
+    "Content": "bodkin bowyer"
+  },
+  "002A": {
+    "ID": "002A",
+    "Content": "night sneaker"
+  },
+  "002B": {
+    "ID": "002B",
+    "Content": "mummy boy"
+  },
+  "002C": {
+    "ID": "002C",
+    "Content": "hell hornet"
+  },
+  "002D": {
+    "ID": "002D",
+    "Content": "pan piper"
+  },
+  "002E": {
+    "ID": "002E",
+    "Content": "slime knight"
+  },
+  "002F": {
+    "ID": "002F",
+    "Content": "clockwork cuckoo"
+  },
+  "0030": {
+    "ID": "0030",
+    "Content": "treeface"
+  },
+  "0031": {
+    "ID": "0031",
+    "Content": "kisser"
+  },
+  "0032": {
+    "ID": "0032",
+    "Content": "diemon"
+  },
+  "0033": {
+    "ID": "0033",
+    "Content": "walking corpse"
+  },
+  "0034": {
+    "ID": "0034",
+    "Content": "fat bat"
+  },
+  "0035": {
+    "ID": "0035",
+    "Content": "night fox"
+  },
+  "0036": {
+    "ID": "0036",
+    "Content": "paprikan"
+  },
+  "0037": {
+    "ID": "0037",
+    "Content": "chimaera"
+  },
+  "0038": {
+    "ID": "0038",
+    "Content": "hood"
+  },
+  "0039": {
+    "ID": "0039",
+    "Content": "headhunter"
+  },
+  "003A": {
+    "ID": "003A",
+    "Content": "minidemon"
+  },
+  "003B": {
+    "ID": "003B",
+    "Content": "gorerilla"
+  },
+  "003C": {
+    "ID": "003C",
+    "Content": "mud mannequin"
+  },
+  "003D": {
+    "ID": "003D",
+    "Content": "cannibox"
+  },
+  "003E": {
+    "ID": "003E",
+    "Content": "goodybag"
+  },
+  "003F": {
+    "ID": "003F",
+    "Content": "witch"
+  },
+  "0040": {
+    "ID": "0040",
+    "Content": "mummy"
+  },
+  "0041": {
+    "ID": "0041",
+    "Content": "cureslime"
+  },
+  "0042": {
+    "ID": "0042",
+    "Content": "restless armour"
+  },
+  "0043": {
+    "ID": "0043",
+    "Content": "phantom fencer"
+  },
+  "0044": {
+    "ID": "0044",
+    "Content": "hipster"
+  },
+  "0045": {
+    "ID": "0045",
+    "Content": "rockbomb"
+  },
+  "0046": {
+    "ID": "0046",
+    "Content": "dieablo"
+  },
+  "0047": {
+    "ID": "0047",
+    "Content": "muddy hand"
+  },
+  "0048": {
+    "ID": "0048",
+    "Content": "terror tabby"
+  },
+  "0049": {
+    "ID": "0049",
+    "Content": "devilmoth"
+  },
+  "004A": {
+    "ID": "004A",
+    "Content": "buffalo wing"
+  },
+  "004B": {
+    "ID": "004B",
+    "Content": "mumboh-jumboe"
+  },
+  "004C": {
+    "ID": "004C",
+    "Content": "hunter mech"
+  },
+  "004D": {
+    "ID": "004D",
+    "Content": "pink pongo"
+  },
+  "004E": {
+    "ID": "004E",
+    "Content": "liquid metal slime"
+  },
+  "004F": {
+    "ID": "004F",
+    "Content": "mad mole"
+  },
+  "0050": {
+    "ID": "0050",
+    "Content": "wailin' weed"
+  },
+  "0051": {
+    "ID": "0051",
+    "Content": "garuda"
+  },
+  "0052": {
+    "ID": "0052",
+    "Content": "infernal armour"
+  },
+  "0053": {
+    "ID": "0053",
+    "Content": "dragonthorn"
+  },
+  "0054": {
+    "ID": "0054",
+    "Content": "mars rover"
+  },
+  "0055": {
+    "ID": "0055",
+    "Content": "peeper"
+  },
+  "0056": {
+    "ID": "0056",
+    "Content": "cockateer"
+  },
+  "0057": {
+    "ID": "0057",
+    "Content": "great sabrecat"
+  },
+  "0058": {
+    "ID": "0058",
+    "Content": "metal slime knight"
+  },
+  "0059": {
+    "ID": "0059",
+    "Content": "puppet player"
+  },
+  "005A": {
+    "ID": "005A",
+    "Content": "spitnik"
+  },
+  "005B": {
+    "ID": "005B",
+    "Content": "bodkin fletcher"
+  },
+  "005C": {
+    "ID": "005C",
+    "Content": "venom wasp"
+  },
+  "005D": {
+    "ID": "005D",
+    "Content": "orc"
+  },
+  "005E": {
+    "ID": "005E",
+    "Content": "night emperor"
+  },
+  "005F": {
+    "ID": "005F",
+    "Content": "treevil"
+  },
+  "0060": {
+    "ID": "0060",
+    "Content": "battle beetle"
+  },
+  "0061": {
+    "ID": "0061",
+    "Content": "lump shaman"
+  },
+  "0062": {
+    "ID": "0062",
+    "Content": "skeleton soldier"
+  },
+  "0063": {
+    "ID": "0063",
+    "Content": "hawk man"
+  },
+  "0064": {
+    "ID": "0064",
+    "Content": "tap devil"
+  },
+  "0065": {
+    "ID": "0065",
+    "Content": "mushroom mage"
+  },
+  "0066": {
+    "ID": "0066",
+    "Content": "redtail hipster"
+  },
+  "0067": {
+    "ID": "0067",
+    "Content": "jumping jackal"
+  },
+  "0068": {
+    "ID": "0068",
+    "Content": "gold golem"
+  },
+  "0069": {
+    "ID": "0069",
+    "Content": "king slime"
+  },
+  "006A": {
+    "ID": "006A",
+    "Content": "iron scorpion"
+  },
+  "006B": {
+    "ID": "006B",
+    "Content": "toxic zombie"
+  },
+  "006C": {
+    "ID": "006C",
+    "Content": "lesser demon"
+  },
+  "006D": {
+    "ID": "006D",
+    "Content": "Volpone"
+  },
+  "006E": {
+    "ID": "006E",
+    "Content": "bomboulder"
+  },
+  "006F": {
+    "ID": "006F",
+    "Content": "skullrider"
+  },
+  "0070": {
+    "ID": "0070",
+    "Content": "Hades condor"
+  },
+  "0071": {
+    "ID": "0071",
+    "Content": "frogman"
+  },
+  "0072": {
+    "ID": "0072",
+    "Content": "mimic"
+  },
+  "0073": {
+    "ID": "0073",
+    "Content": "magic dumbbell"
+  },
+  "0074": {
+    "ID": "0074",
+    "Content": "gargoyle"
+  },
+  "0075": {
+    "ID": "0075",
+    "Content": "magic marionette"
+  },
+  "0076": {
+    "ID": "0076",
+    "Content": "notso macho"
+  },
+  "0077": {
+    "ID": "0077",
+    "Content": "lump wizard"
+  },
+  "0078": {
+    "ID": "0078",
+    "Content": "berserker"
+  },
+  "0079": {
+    "ID": "0079",
+    "Content": "bulldozer"
+  },
+  "007A": {
+    "ID": "007A",
+    "Content": "ghoul"
+  },
+  "007B": {
+    "ID": "007B",
+    "Content": "shade"
+  },
+  "007C": {
+    "ID": "007C",
+    "Content": "lethal armour"
+  },
+  "007D": {
+    "ID": "007D",
+    "Content": "king cureslime"
+  },
+  "007E": {
+    "ID": "007E",
+    "Content": "hoodlum"
+  },
+  "007F": {
+    "ID": "007F",
+    "Content": "hocus chimaera"
+  },
+  "0080": {
+    "ID": "0080",
+    "Content": "demonrider"
+  },
+  "0081": {
+    "ID": "0081",
+    "Content": "killer moth"
+  },
+  "0082": {
+    "ID": "0082",
+    "Content": "jabberwockee"
+  },
+  "0083": {
+    "ID": "0083",
+    "Content": "Silenus"
+  },
+  "0084": {
+    "ID": "0084",
+    "Content": "robo-robin"
+  },
+  "0085": {
+    "ID": "0085",
+    "Content": "puppet master"
+  },
+  "0086": {
+    "ID": "0086",
+    "Content": "death scorpion"
+  },
+  "0087": {
+    "ID": "0087",
+    "Content": "jackal ripper"
+  },
+  "0088": {
+    "ID": "0088",
+    "Content": "iron rhino"
+  },
+  "0089": {
+    "ID": "0089",
+    "Content": "dancing flame"
+  },
+  "008A": {
+    "ID": "008A",
+    "Content": "blood mummy"
+  },
+  "008B": {
+    "ID": "008B",
+    "Content": "phantom swordsman"
+  },
+  "008C": {
+    "ID": "008C",
+    "Content": "hacksaurus"
+  },
+  "008D": {
+    "ID": "008D",
+    "Content": "bone baron"
+  },
+  "008E": {
+    "ID": "008E",
+    "Content": "swingin' hipster"
+  },
+  "008F": {
+    "ID": "008F",
+    "Content": "orc king"
+  },
+  "0090": {
+    "ID": "0090",
+    "Content": "soulspawn"
+  },
+  "0091": {
+    "ID": "0091",
+    "Content": "gryphon"
+  },
+  "0092": {
+    "ID": "0092",
+    "Content": "golem"
+  },
+  "0093": {
+    "ID": "0093",
+    "Content": "fallen priest"
+  },
+  "0094": {
+    "ID": "0094",
+    "Content": "dead ringer"
+  },
+  "0095": {
+    "ID": "0095",
+    "Content": "living statue"
+  },
+  "0096": {
+    "ID": "0096",
+    "Content": "freeze fly"
+  },
+  "0097": {
+    "ID": "0097",
+    "Content": "dark slime"
+  },
+  "0098": {
+    "ID": "0098",
+    "Content": "frostburn"
+  },
+  "0099": {
+    "ID": "0099",
+    "Content": "hellhound"
+  },
+  "009A": {
+    "ID": "009A",
+    "Content": "troll"
+  },
+  "009B": {
+    "ID": "009B",
+    "Content": "ice queen"
+  },
+  "009C": {
+    "ID": "009C",
+    "Content": "abominape"
+  },
+  "009D": {
+    "ID": "009D",
+    "Content": "beelzebuzz"
+  },
+  "009E": {
+    "ID": "009E",
+    "Content": "killing machine"
+  },
+  "009F": {
+    "ID": "009F",
+    "Content": "icikiller"
+  },
+  "00A0": {
+    "ID": "00A0",
+    "Content": "shadow"
+  },
+  "00A1": {
+    "ID": "00A1",
+    "Content": "metal king slime"
+  },
+  "00A2": {
+    "ID": "00A2",
+    "Content": "frost wyvine"
+  },
+  "00A3": {
+    "ID": "00A3",
+    "Content": "Elysium bird"
+  },
+  "00A4": {
+    "ID": "00A4",
+    "Content": "dragurn"
+  },
+  "00A5": {
+    "ID": "00A5",
+    "Content": "smacker"
+  },
+  "00A6": {
+    "ID": "00A6",
+    "Content": "zombie gladiator"
+  },
+  "00A7": {
+    "ID": "00A7",
+    "Content": "stone golem"
+  },
+  "00A8": {
+    "ID": "00A8",
+    "Content": "dark condor"
+  },
+  "00A9": {
+    "ID": "00A9",
+    "Content": "mucho macho"
+  },
+  "00AA": {
+    "ID": "00AA",
+    "Content": "dark skeleton"
+  },
+  "00AB": {
+    "ID": "00AB",
+    "Content": "dark macarbour"
+  },
+  "00AC": {
+    "ID": "00AC",
+    "Content": "tyrantosaurus"
+  },
+  "00AD": {
+    "ID": "00AD",
+    "Content": "demon thunderer"
+  },
+  "00AE": {
+    "ID": "00AE",
+    "Content": "dark star"
+  },
+  "00AF": {
+    "ID": "00AF",
+    "Content": "dark minister"
+  },
+  "00B0": {
+    "ID": "00B0",
+    "Content": "grim rider"
+  },
+  "00B1": {
+    "ID": "00B1",
+    "Content": "dark sea-diva"
+  },
+  "00B2": {
+    "ID": "00B2",
+    "Content": "war gryphon"
+  },
+  "00B3": {
+    "ID": "00B3",
+    "Content": "dark turkey"
+  },
+  "00B4": {
+    "ID": "00B4",
+    "Content": "heligator"
+  },
+  "00B5": {
+    "ID": "00B5",
+    "Content": "dark dullahan"
+  },
+  "00B6": {
+    "ID": "00B6",
+    "Content": "killer croaker"
+  },
+  "00B7": {
+    "ID": "00B7",
+    "Content": "high roller"
+  },
+  "00B8": {
+    "ID": "00B8",
+    "Content": "darkodile"
+  },
+  "00B9": {
+    "ID": "00B9",
+    "Content": "cyclops"
+  },
+  "00BA": {
+    "ID": "00BA",
+    "Content": "bloody hand"
+  },
+  "00BB": {
+    "ID": "00BB",
+    "Content": "snapdragon"
+  },
+  "00BC": {
+    "ID": "00BC",
+    "Content": "buffalogre"
+  },
+  "00BD": {
+    "ID": "00BD",
+    "Content": "mohawker"
+  },
+  "00BE": {
+    "ID": "00BE",
+    "Content": "archdemon"
+  },
+  "00BF": {
+    "ID": "00BF",
+    "Content": "bobonga"
+  },
+  "00C0": {
+    "ID": "00C0",
+    "Content": "caped caperer"
+  },
+  "00C1": {
+    "ID": "00C1",
+    "Content": "claws"
+  },
+  "00C2": {
+    "ID": "00C2",
+    "Content": "boss troll"
+  },
+  "00C3": {
+    "ID": "00C3",
+    "Content": "mimic king"
+  },
+  "00C4": {
+    "ID": "00C4",
+    "Content": "fowlfighter"
+  },
+  "00C5": {
+    "ID": "00C5",
+    "Content": "dullahan"
+  },
+  "00C6": {
+    "ID": "00C6",
+    "Content": "gigantes"
+  },
+  "00C7": {
+    "ID": "00C7",
+    "Content": "frou-frou"
+  },
+  "00C8": {
+    "ID": "00C8",
+    "Content": "stone guardian"
+  },
+  "00C9": {
+    "ID": "00C9",
+    "Content": "wight priest"
+  },
+  "00CA": {
+    "ID": "00CA",
+    "Content": "hell gladiator"
+  },
+  "00CB": {
+    "ID": "00CB",
+    "Content": "dark slime (after Citadel)"
+  },
+  "00CC": {
+    "ID": "00CC",
+    "Content": "shadow (after Citadel)"
+  },
+  "00CD": {
+    "ID": "00CD",
+    "Content": "dark skeleton (after Citadel)"
+  },
+  "00CE": {
+    "ID": "00CE",
+    "Content": "dark condor (after Citadel)"
+  },
+  "00CF": {
+    "ID": "00CF",
+    "Content": "dark macarbour (after Citadel)"
+  },
+  "00D0": {
+    "ID": "00D0",
+    "Content": "dark turkey (after Citadel)"
+  },
+  "00D1": {
+    "ID": "00D1",
+    "Content": "dark minister (after Citadel)"
+  },
+  "00D2": {
+    "ID": "00D2",
+    "Content": "dark dullahan (after Citadel)"
+  },
+  "00D3": {
+    "ID": "00D3",
+    "Content": "dark moth"
+  },
+  "00D4": {
+    "ID": "00D4",
+    "Content": "dark star (after Citadel)"
+  },
+  "00D5": {
+    "ID": "00D5",
+    "Content": "dark gryphon"
+  },
+  "00D6": {
+    "ID": "00D6",
+    "Content": "darkodile (after Citadel)"
+  },
+  "00D7": {
+    "ID": "00D7",
+    "Content": "dark sabrecat"
+  },
+  "00D8": {
+    "ID": "00D8",
+    "Content": "hell hopper"
+  },
+  "00D9": {
+    "ID": "00D9",
+    "Content": "dark devildog"
+  },
+  "00DA": {
+    "ID": "00DA",
+    "Content": "heavy hood"
+  },
+  "00DB": {
+    "ID": "00DB",
+    "Content": "hellstalker"
+  },
+  "00DC": {
+    "ID": "00DC",
+    "Content": "silhouette"
+  },
+  "00DD": {
+    "ID": "00DD",
+    "Content": "democrobot"
+  },
+  "00DE": {
+    "ID": "00DE",
+    "Content": "Pandora's box"
+  },
+  "00DF": {
+    "ID": "00DF",
+    "Content": "wight king"
+  },
+  "00E0": {
+    "ID": "00E0",
+    "Content": "invisible swordsman"
+  },
+  "00E1": {
+    "ID": "00E1",
+    "Content": "hellspawn"
+  },
+  "00E2": {
+    "ID": "00E2",
+    "Content": "Belial"
+  },
+  "00E3": {
+    "ID": "00E3",
+    "Content": "solaris"
+  },
+  "00E4": {
+    "ID": "00E4",
+    "Content": "great troll"
+  },
+  "00E5": {
+    "ID": "00E5",
+    "Content": "unholy bishop"
+  },
+  "00E6": {
+    "ID": "00E6",
+    "Content": "Hell's gatekeeper"
+  },
+  "00E7": {
+    "ID": "00E7",
+    "Content": "crocodog"
+  },
+  "00E8": {
+    "ID": "00E8",
+    "Content": "khalamari kid"
+  },
+  "00E9": {
+    "ID": "00E9",
+    "Content": "see urchin"
+  },
+  "00EA": {
+    "ID": "00EA",
+    "Content": "man o' war"
+  },
+  "00EB": {
+    "ID": "00EB",
+    "Content": "yabby"
+  },
+  "00EC": {
+    "ID": "00EC",
+    "Content": "king kelp"
+  },
+  "00ED": {
+    "ID": "00ED",
+    "Content": "wild boarfish"
+  },
+  "00EE": {
+    "ID": "00EE",
+    "Content": "khalamari kid (ocean)"
+  },
+  "00EF": {
+    "ID": "00EF",
+    "Content": "see urchin (ocean)"
+  },
+  "00F0": {
+    "ID": "00F0",
+    "Content": "man o' war (ocean)"
+  },
+  "00F1": {
+    "ID": "00F1",
+    "Content": "anchorman"
+  },
+  "00F2": {
+    "ID": "00F2",
+    "Content": "see angel"
+  },
+  "00F3": {
+    "ID": "00F3",
+    "Content": "squid kid"
+  },
+  "00F4": {
+    "ID": "00F4",
+    "Content": "king kelp (ocean)"
+  },
+  "00F5": {
+    "ID": "00F5",
+    "Content": "crayzee"
+  },
+  "00F6": {
+    "ID": "00F6",
+    "Content": "eveel"
+  },
+  "00F7": {
+    "ID": "00F7",
+    "Content": "merman"
+  },
+  "00F8": {
+    "ID": "00F8",
+    "Content": "king squid"
+  },
+  "00F9": {
+    "ID": "00F9",
+    "Content": "octavian sentry"
+  },
+  "00FA": {
+    "ID": "00FA",
+    "Content": "pigmalion"
+  },
+  "00FB": {
+    "ID": "00FB",
+    "Content": "sea dragon"
+  },
+  "00FC": {
+    "ID": "00FC",
+    "Content": "foul anchor"
+  },
+  "00FD": {
+    "ID": "00FD",
+    "Content": "poison eveel"
+  },
+  "00FE": {
+    "ID": "00FE",
+    "Content": "siren"
+  },
+  "00FF": {
+    "ID": "00FF",
+    "Content": "merking"
+  },
+  "0100": {
+    "ID": "0100",
+    "Content": "seasaur"
+  },
+  "0101": {
+    "ID": "0101",
+    "Content": "octavian pirate"
+  },
+  "0102": {
+    "ID": "0102",
+    "Content": "riptide"
+  },
+  "0103": {
+    "ID": "0103",
+    "Content": "tentacular"
+  },
+  "0104": {
+    "ID": "0104",
+    "Content": "abyss diver"
+  },
+  "0105": {
+    "ID": "0105",
+    "Content": "slime (amalgoomated)"
+  },
+  "0106": {
+    "ID": "0106",
+    "Content": "firespirit"
+  },
+  "0107": {
+    "ID": "0107",
+    "Content": "lost soul"
+  },
+  "0108": {
+    "ID": "0108",
+    "Content": "servant of darkness"
+  },
+  "010C": {
+    "ID": "010C",
+    "Content": "frogface (face-up)"
+  },
+  "010D": {
+    "ID": "010D",
+    "Content": "frogman (face-up)"
+  },
+  "010E": {
+    "ID": "010E",
+    "Content": "killer croaker (face-up)"
+  },
+  "010F": {
+    "ID": "010F",
+    "Content": "winky (red)"
+  },
+  "0111": {
+    "ID": "0111",
+    "Content": "pan piper (red)"
+  },
+  "0112": {
+    "ID": "0112",
+    "Content": "magic dumbbell Lv. 5"
+  },
+  "0113": {
+    "ID": "0113",
+    "Content": "dead ringer Lv. 5"
+  },
+  "0114": {
+    "ID": "0114",
+    "Content": "high roller (serious)"
+  },
+  "0115": {
+    "ID": "0115",
+    "Content": "skeleton soldier"
+  },
+  "0116": {
+    "ID": "0116",
+    "Content": "ghoul"
+  },
+  "0117": {
+    "ID": "0117",
+    "Content": "anchorman (red)"
+  },
+  "0119": {
+    "ID": "0119",
+    "Content": "mum"
+  },
+  "011A": {
+    "ID": "011A",
+    "Content": "boh"
+  },
+  "011B": {
+    "ID": "011B",
+    "Content": "jum"
+  },
+  "011C": {
+    "ID": "011C",
+    "Content": "boe"
+  },
+  "011D": {
+    "ID": "011D",
+    "Content": "jab"
+  },
+  "011E": {
+    "ID": "011E",
+    "Content": "ber"
+  },
+  "011F": {
+    "ID": "011F",
+    "Content": "kee"
+  },
+  "0120": {
+    "ID": "0120",
+    "Content": "woc"
+  },
+  "0121": {
+    "ID": "0121",
+    "Content": "head of state"
+  },
+  "0122": {
+    "ID": "0122",
+    "Content": "body politic"
+  },
+  "0123": {
+    "ID": "0123",
+    "Content": "right wing"
+  },
+  "0124": {
+    "ID": "0124",
+    "Content": "left wing"
+  },
+  "0125": {
+    "ID": "0125",
+    "Content": "jab"
+  },
+  "012D": {
+    "ID": "012D",
+    "Content": "slime A (opening)"
+  },
+  "012E": {
+    "ID": "012E",
+    "Content": "hammerhood (miniboss)"
+  },
+  "012F": {
+    "ID": "012F",
+    "Content": "Geyzer"
+  },
+  "0130": {
+    "ID": "0130",
+    "Content": "Mash"
+  },
+  "0131": {
+    "ID": "0131",
+    "Content": "Bangerz"
+  },
+  "0132": {
+    "ID": "0132",
+    "Content": "Khalamari"
+  },
+  "0133": {
+    "ID": "0133",
+    "Content": "tortured soul"
+  },
+  "0134": {
+    "ID": "0134",
+    "Content": "trap box"
+  },
+  "0135": {
+    "ID": "0135",
+    "Content": "Don Mole"
+  },
+  "0136": {
+    "ID": "0136",
+    "Content": "sea dragon"
+  },
+  "0137": {
+    "ID": "0137",
+    "Content": "Argon lizard"
+  },
+  "0138": {
+    "ID": "0138",
+    "Content": "great Argon lizard"
+  },
+  "0139": {
+    "ID": "0139",
+    "Content": "Dhoulmagus (1st form)"
+  },
+  "013A": {
+    "ID": "013A",
+    "Content": "Dhoulmagus (1st form)"
+  },
+  "013B": {
+    "ID": "013B",
+    "Content": "Dhoulmagus (2nd form)"
+  },
+  "013C": {
+    "ID": "013C",
+    "Content": "Dhoulmagus (2nd form)"
+  },
+  "013D": {
+    "ID": "013D",
+    "Content": "Evil Jessica"
+  },
+  "013E": {
+    "ID": "013E",
+    "Content": "hellhound (scripted)"
+  },
+  "013F": {
+    "ID": "013F",
+    "Content": "Captain Crow"
+  },
+  "0140": {
+    "ID": "0140",
+    "Content": "Red Horn (boss)"
+  },
+  "0141": {
+    "ID": "0141",
+    "Content": "Blue Fang (boss)"
+  },
+  "0142": {
+    "ID": "0142",
+    "Content": "Empyrea"
+  },
+  "0143": {
+    "ID": "0143",
+    "Content": "Gemon"
+  },
+  "0144": {
+    "ID": "0144",
+    "Content": "Evil Sir Leopold"
+  },
+  "0145": {
+    "ID": "0145",
+    "Content": "Marcello"
+  },
+  "0146": {
+    "ID": "0146",
+    "Content": "king squid (Baccarat)"
+  },
+  "0147": {
+    "ID": "0147",
+    "Content": "boss troll (boss)"
+  },
+  "0148": {
+    "ID": "0148",
+    "Content": "Rhapthorne (1st form)"
+  },
+  "0149": {
+    "ID": "0149",
+    "Content": "Rhapthorne (1st form)"
+  },
+  "014A": {
+    "ID": "014A",
+    "Content": "Rhapthorne (2nd form)"
+  },
+  "014B": {
+    "ID": "014B",
+    "Content": "Rhapthorne (2nd form)"
+  },
+  "014C": {
+    "ID": "014C",
+    "Content": "Lord of the Dragovians (dragon)"
+  },
+  "014D": {
+    "ID": "014D",
+    "Content": "Lord of the Dragovians (dragon)"
+  },
+  "014E": {
+    "ID": "014E",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "014F": {
+    "ID": "014F",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "0150": {
+    "ID": "0150",
+    "Content": "vermillion dragon"
+  },
+  "0151": {
+    "ID": "0151",
+    "Content": "vermillion dragon"
+  },
+  "0152": {
+    "ID": "0152",
+    "Content": "servant of darkness (Citadel)"
+  },
+  "0153": {
+    "ID": "0153",
+    "Content": "statue of Hero"
+  },
+  "0154": {
+    "ID": "0154",
+    "Content": "statue of Yangus"
+  },
+  "0155": {
+    "ID": "0155",
+    "Content": "statue of Jessica"
+  },
+  "0156": {
+    "ID": "0156",
+    "Content": "statue of Angelo"
+  },
+  "0157": {
+    "ID": "0157",
+    "Content": "megalodon"
+  },
+  "0158": {
+    "ID": "0158",
+    "Content": "Ruin"
+  },
+  "0159": {
+    "ID": "0159",
+    "Content": "soul mole"
+  },
+  "015A": {
+    "ID": "015A",
+    "Content": "Marcello"
+  },
+  "015B": {
+    "ID": "015B",
+    "Content": "Dhoulmagus (1st form)"
+  },
+  "015C": {
+    "ID": "015C",
+    "Content": "Dhoulmagus (2nd form)"
+  },
+  "015D": {
+    "ID": "015D",
+    "Content": "Evil Jessica"
+  },
+  "015E": {
+    "ID": "015E",
+    "Content": "Evil Sir Leopold"
+  },
+  "015F": {
+    "ID": "015F",
+    "Content": "Rhapthorne (1st form)"
+  },
+  "0160": {
+    "ID": "0160",
+    "Content": "Dhoulmagus (clone)"
+  },
+  "0161": {
+    "ID": "0161",
+    "Content": "Rhapthorne (2nd form)"
+  },
+  "0162": {
+    "ID": "0162",
+    "Content": "Rhapthorne (2nd form)"
+  },
+  "0163": {
+    "ID": "0163",
+    "Content": "Lord of the Dragovians (humanoid)"
+  },
+  "0164": {
+    "ID": "0164",
+    "Content": "dancing flame (Citadel)"
+  },
+  "0165": {
+    "ID": "0165",
+    "Content": "Rhapthorne (barrier)"
+  },
+  "0166": {
+    "ID": "0166",
+    "Content": "Rhapthorne (barrier)"
+  },
+  "0167": {
+    "ID": "0167",
+    "Content": "slime B, C (opening)"
+  },
+  "0168": {
+    "ID": "0168",
+    "Content": "emerald dragon"
+  },
+  "016B": {
+    "ID": "016B",
+    "Content": "silver dragon"
+  },
+  "016E": {
+    "ID": "016E",
+    "Content": "golden dragon"
+  },
+  "0171": {
+    "ID": "0171",
+    "Content": "darksteel dragon"
+  },
+  "0174": {
+    "ID": "0174",
+    "Content": "divine dragon"
+  },
+  "0177": {
+    "ID": "0177",
+    "Content": "emerald dragon (final trial)"
+  },
+  "017A": {
+    "ID": "017A",
+    "Content": "silver dragon (final trial)"
+  },
+  "017D": {
+    "ID": "017D",
+    "Content": "golden dragon (final trial)"
+  },
+  "0180": {
+    "ID": "0180",
+    "Content": "darksteel dragon (final trial)"
+  },
+  "0183": {
+    "ID": "0183",
+    "Content": "divine dragon (final trial)"
+  },
+  "0186": {
+    "ID": "0186",
+    "Content": "ultimate dragon"
+  },
+  "0189": {
+    "ID": "0189",
+    "Content": "vermillion dragon (final trial)"
+  },
+  "018B": {
+    "ID": "018B",
+    "Content": "Red Horn"
+  },
+  "0191": {
+    "ID": "0191",
+    "Content": "Prince Charmles"
+  },
+  "01F5": {
+    "ID": "01F5",
+    "Content": "Axoraptor"
+  },
+  "01F6": {
+    "ID": "01F6",
+    "Content": "Shortshooter"
+  },
+  "01F7": {
+    "ID": "01F7",
+    "Content": "One Knight Stand"
+  },
+  "01F8": {
+    "ID": "01F8",
+    "Content": "Automaton Aviator"
+  },
+  "01F9": {
+    "ID": "01F9",
+    "Content": "Pain in the Neck"
+  },
+  "01FA": {
+    "ID": "01FA",
+    "Content": "Buffalo Bill"
+  },
+  "01FB": {
+    "ID": "01FB",
+    "Content": "Family Doctor"
+  },
+  "01FC": {
+    "ID": "01FC",
+    "Content": "Hollow Knight"
+  },
+  "01FD": {
+    "ID": "01FD",
+    "Content": "Mullet Mallet"
+  },
+  "01FE": {
+    "ID": "01FE",
+    "Content": "Little Nipper"
+  },
+  "01FF": {
+    "ID": "01FF",
+    "Content": "Sharpshooter"
+  },
+  "0200": {
+    "ID": "0200",
+    "Content": "Root of Evil"
+  },
+  "0201": {
+    "ID": "0201",
+    "Content": "Squiggly Squiggler"
+  },
+  "0202": {
+    "ID": "0202",
+    "Content": "Old-School Drooler"
+  },
+  "0203": {
+    "ID": "0203",
+    "Content": "Punchin' Judy"
+  },
+  "0204": {
+    "ID": "0204",
+    "Content": "Slimy Smiley"
+  },
+  "0205": {
+    "ID": "0205",
+    "Content": "Bushwhacker"
+  },
+  "0206": {
+    "ID": "0206",
+    "Content": "Nightstalker"
+  },
+  "0207": {
+    "ID": "0207",
+    "Content": "Goldbricker"
+  },
+  "0208": {
+    "ID": "0208",
+    "Content": "Death Tabby"
+  },
+  "0209": {
+    "ID": "0209",
+    "Content": "Wild Spearman"
+  },
+  "020A": {
+    "ID": "020A",
+    "Content": "Fertiliser"
+  },
+  "020B": {
+    "ID": "020B",
+    "Content": "Hooded Hacker"
+  },
+  "020C": {
+    "ID": "020C",
+    "Content": "Jewel Juggler"
+  },
+  "020D": {
+    "ID": "020D",
+    "Content": "King of Dumbira"
+  },
+  "020E": {
+    "ID": "020E",
+    "Content": "All Day Sucker"
+  },
+  "020F": {
+    "ID": "020F",
+    "Content": "Slime Creator"
+  },
+  "0210": {
+    "ID": "0210",
+    "Content": "Al Gee"
+  },
+  "0211": {
+    "ID": "0211",
+    "Content": "Old Soldier"
+  },
+  "0212": {
+    "ID": "0212",
+    "Content": "Living Flame"
+  },
+  "0213": {
+    "ID": "0213",
+    "Content": "Poisonous Sniper"
+  },
+  "0214": {
+    "ID": "0214",
+    "Content": "Potty Dragon"
+  },
+  "0215": {
+    "ID": "0215",
+    "Content": "Gloopy Groupie"
+  },
+  "0216": {
+    "ID": "0216",
+    "Content": "Angel of Curing"
+  },
+  "0217": {
+    "ID": "0217",
+    "Content": "Abominable Ape"
+  },
+  "0218": {
+    "ID": "0218",
+    "Content": "Fantom of Chopera"
+  },
+  "0219": {
+    "ID": "0219",
+    "Content": "Femme Fatale"
+  },
+  "021A": {
+    "ID": "021A",
+    "Content": "Roboster Mk I"
+  },
+  "021B": {
+    "ID": "021B",
+    "Content": "Bricklayer"
+  },
+  "021C": {
+    "ID": "021C",
+    "Content": "Cold Fire"
+  },
+  "021D": {
+    "ID": "021D",
+    "Content": "Terror Talons"
+  },
+  "021E": {
+    "ID": "021E",
+    "Content": "Pelvic Thruster"
+  },
+  "021F": {
+    "ID": "021F",
+    "Content": "Slime Designer"
+  },
+  "0220": {
+    "ID": "0220",
+    "Content": "Ochre Ogre"
+  },
+  "0221": {
+    "ID": "0221",
+    "Content": "Muscly Mohawker"
+  },
+  "0222": {
+    "ID": "0222",
+    "Content": "Puppet Pugilist"
+  },
+  "0223": {
+    "ID": "0223",
+    "Content": "Gigantes Guardsman"
+  },
+  "0224": {
+    "ID": "0224",
+    "Content": "Big Blue Bully"
+  },
+  "0225": {
+    "ID": "0225",
+    "Content": "Occult Rider"
+  },
+  "0226": {
+    "ID": "0226",
+    "Content": "Bone Racer"
+  },
+  "0227": {
+    "ID": "0227",
+    "Content": "Attack Bot Mk II"
+  },
+  "0228": {
+    "ID": "0228",
+    "Content": "Big Blizzard"
+  },
+  "0229": {
+    "ID": "0229",
+    "Content": "Living Torch"
+  },
+  "022A": {
+    "ID": "022A",
+    "Content": "Raging Rooster"
+  },
+  "022B": {
+    "ID": "022B",
+    "Content": "Loopy Lupus"
+  },
+  "022C": {
+    "ID": "022C",
+    "Content": "Octavius Maximus"
+  },
+  "022D": {
+    "ID": "022D",
+    "Content": "Quick Silver"
+  },
+  "022E": {
+    "ID": "022E",
+    "Content": "Metal Babble"
+  },
+  "022F": {
+    "ID": "022F",
+    "Content": "Shadow Conductor"
+  },
+  "0230": {
+    "ID": "0230",
+    "Content": "Arch-archdemon"
+  },
+  "0231": {
+    "ID": "0231",
+    "Content": "Gigantes Gangster"
+  },
+  "0232": {
+    "ID": "0232",
+    "Content": "Troll Patroller"
+  },
+  "0233": {
+    "ID": "0233",
+    "Content": "Man-at-Arms"
+  },
+  "0234": {
+    "ID": "0234",
+    "Content": "Crazed Colossus"
+  },
+  "0235": {
+    "ID": "0235",
+    "Content": "Killer Director"
+  },
+  "0236": {
+    "ID": "0236",
+    "Content": "Stonemason"
+  },
+  "0237": {
+    "ID": "0237",
+    "Content": "Heavy Metal"
+  },
+  "0238": {
+    "ID": "0238",
+    "Content": "Headless Flailsman"
+  },
+  "0239": {
+    "ID": "0239",
+    "Content": "Wight Highpriest"
+  },
+  "023A": {
+    "ID": "023A",
+    "Content": "Jumbo Dilophosaur"
+  },
+  "023B": {
+    "ID": "023B",
+    "Content": "Gryphon General"
+  },
+  "023C": {
+    "ID": "023C",
+    "Content": "Greater Sabrecat"
+  },
+  "023D": {
+    "ID": "023D",
+    "Content": "Man-eater Chest"
+  },
+  "023E": {
+    "ID": "023E",
+    "Content": "Sand Slayer"
+  },
+  "023F": {
+    "ID": "023F",
+    "Content": "Bundle of Joy"
+  },
+  "0240": {
+    "ID": "0240",
+    "Content": "Mole Major"
+  },
+  "0241": {
+    "ID": "0241",
+    "Content": "Colossal Clione"
+  },
+  "0244": {
+    "ID": "0244",
+    "Content": "Ms. Impetuous"
+  },
+  "0245": {
+    "ID": "0245",
+    "Content": "Mr. Bo Dangles"
+  },
+  "0246": {
+    "ID": "0246",
+    "Content": "Caped Inspectre"
+  },
+  "0247": {
+    "ID": "0247",
+    "Content": "Pre-curser of Death"
+  },
+  "0248": {
+    "ID": "0248",
+    "Content": "Mr. Stalkative"
+  },
+  "0249": {
+    "ID": "0249",
+    "Content": "King of RIP"
+  },
+  "024A": {
+    "ID": "024A",
+    "Content": "Whizzkid"
+  },
+  "024B": {
+    "ID": "024B",
+    "Content": "Heavenly Hunter"
+  },
+  "024C": {
+    "ID": "024C",
+    "Content": "Sinister Minister"
+  },
+  "024D": {
+    "ID": "024D",
+    "Content": "Cosmic Doom"
+  },
+  "024E": {
+    "ID": "024E",
+    "Content": "Lucky Old Sun"
+  },
+  "024F": {
+    "ID": "024F",
+    "Content": "Star Duster"
+  },
+  "0250": {
+    "ID": "0250",
+    "Content": "Major Flavour"
+  },
+  "0251": {
+    "ID": "0251",
+    "Content": "Snore Spore"
+  },
+  "0252": {
+    "ID": "0252",
+    "Content": "Psychedelia"
+  },
+  "0253": {
+    "ID": "0253",
+    "Content": "Teen Fox"
+  },
+  "0254": {
+    "ID": "0254",
+    "Content": "Flappacinno"
+  },
+  "0255": {
+    "ID": "0255",
+    "Content": "Famous Five"
+  },
+  "0256": {
+    "ID": "0256",
+    "Content": "L'il Digger"
+  },
+  "0257": {
+    "ID": "0257",
+    "Content": "Condor from Yonder"
+  },
+  "0258": {
+    "ID": "0258",
+    "Content": "Ace of Spades"
+  },
+  "0259": {
+    "ID": "0259",
+    "Content": "Drive-Thru"
+  },
+  "025A": {
+    "ID": "025A",
+    "Content": "Apocalips"
+  },
+  "032A": {
+    "ID": "032A",
+    "Content": "phoenix"
+  },
+  "032B": {
+    "ID": "032B",
+    "Content": "night rider"
+  },
+  "032C": {
+    "ID": "032C",
+    "Content": "corpse corporal"
+  },
+  "032D": {
+    "ID": "032D",
+    "Content": "great keeper"
+  },
+  "032E": {
+    "ID": "032E",
+    "Content": "coffer of death"
+  },
+  "0330": {
+    "ID": "0330",
+    "Content": "Juggerwroth (1st form)"
+  },
+  "0331": {
+    "ID": "0331",
+    "Content": "Juggerwroth (2nd form)"
+  },
+  "0334": {
+    "ID": "0334",
+    "Content": "great keeper"
+  },
+  "0335": {
+    "ID": "0335",
+    "Content": "coffer of death"
+  },
+  "0339": {
+    "ID": "0339",
+    "Content": "solaris"
+  },
+  "033A": {
+    "ID": "033A",
+    "Content": "great troll"
+  },
+  "033B": {
+    "ID": "033B",
+    "Content": "crocodog"
+  },
+  "033C": {
+    "ID": "033C",
+    "Content": "great keeper"
+  },
+  "0343": {
+    "ID": "0343",
+    "Content": "Geyzer in Memoriam"
+  },
+  "0344": {
+    "ID": "0344",
+    "Content": "Tortured Soul in Memoriam"
+  },
+  "0345": {
+    "ID": "0345",
+    "Content": "Skeleton in Memoriam"
+  },
+  "0346": {
+    "ID": "0346",
+    "Content": "Walking Corpse in Memoriam"
+  },
+  "0347": {
+    "ID": "0347",
+    "Content": "Trap Box in Memoriam"
+  },
+  "0348": {
+    "ID": "0348",
+    "Content": "Don Mole in Memoriam"
+  },
+  "0349": {
+    "ID": "0349",
+    "Content": "Soul Mole in Memoriam"
+  },
+  "034A": {
+    "ID": "034A",
+    "Content": "Argon Lizard in Memoriam"
+  },
+  "034B": {
+    "ID": "034B",
+    "Content": "Dhoulmagus in Memoriam (1st form) B"
+  },
+  "034C": {
+    "ID": "034C",
+    "Content": "Dhoulmagus in Memoriam (1st form) B"
+  },
+  "034D": {
+    "ID": "034D",
+    "Content": "Dhoulmagus in Memoriam (1st form) B"
+  },
+  "034E": {
+    "ID": "034E",
+    "Content": "Dhoulmagus in Memoriam (1st form) A"
+  },
+  "034F": {
+    "ID": "034F",
+    "Content": "Dhoulmagus in Memoriam (1st form) C"
+  },
+  "0350": {
+    "ID": "0350",
+    "Content": "Dhoulmagus in Memoriam (2nd form)"
+  },
+  "0351": {
+    "ID": "0351",
+    "Content": "Dhoulmagus in Memoriam (2nd form)"
+  },
+  "0352": {
+    "ID": "0352",
+    "Content": "Dhoulmagus in Memoriam (2nd form)"
+  },
+  "0353": {
+    "ID": "0353",
+    "Content": "Evil Jessica in Memoriam"
+  },
+  "0354": {
+    "ID": "0354",
+    "Content": "Evil Jessica in Memoriam"
+  },
+  "0355": {
+    "ID": "0355",
+    "Content": "Shadow in Memoriam"
+  },
+  "0356": {
+    "ID": "0356",
+    "Content": "Captain Crow in Memoriam"
+  },
+  "0357": {
+    "ID": "0357",
+    "Content": "Gemon in Memoriam"
+  },
+  "0358": {
+    "ID": "0358",
+    "Content": "Darkbird in Memoriam"
+  },
+  "0359": {
+    "ID": "0359",
+    "Content": "Dark Turkey in Memoriam"
+  },
+  "035A": {
+    "ID": "035A",
+    "Content": "Sir Leopold in Memoriam"
+  },
+  "035B": {
+    "ID": "035B",
+    "Content": "Sir Leopold in Memoriam"
+  },
+  "035C": {
+    "ID": "035C",
+    "Content": "Marcello in Memoriam"
+  },
+  "035D": {
+    "ID": "035D",
+    "Content": "Marcello in Memoriam"
+  },
+  "035E": {
+    "ID": "035E",
+    "Content": "Dark Servant in Memoriam"
+  },
+  "035F": {
+    "ID": "035F",
+    "Content": "Dancing Flame in Memoriam"
+  },
+  "0360": {
+    "ID": "0360",
+    "Content": "Ruin in Memoriam"
+  },
+  "0361": {
+    "ID": "0361",
+    "Content": "Estark"
+  },
+  "0362": {
+    "ID": "0362",
+    "Content": "Estark"
+  },
+  "0363": {
+    "ID": "0363",
+    "Content": "Estark"
+  },
+  "0364": {
+    "ID": "0364",
+    "Content": "Estark"
+  },
+  "0389": {
+    "ID": "0389",
+    "Content": "she-slime (Rank G, Round 1)"
+  },
+  "038A": {
+    "ID": "038A",
+    "Content": "slime knight (Rank G, Round 1)"
+  },
+  "038B": {
+    "ID": "038B",
+    "Content": "frogface (Rank G, Round 2)"
+  },
+  "038C": {
+    "ID": "038C",
+    "Content": "treeface (Rank G, Round 2)"
+  },
+  "038D": {
+    "ID": "038D",
+    "Content": "hammerhood (Rank G, Round 3)"
+  },
+  "038E": {
+    "ID": "038E",
+    "Content": "gorerilla (Rank G, Round 3)"
+  },
+  "038F": {
+    "ID": "038F",
+    "Content": "bullfinch (Rank G, Round 3)"
+  },
+  "0390": {
+    "ID": "0390",
+    "Content": "khalamari kid (Rank F, Round 1)"
+  },
+  "0391": {
+    "ID": "0391",
+    "Content": "king kelp (Rank F, Round 1)"
+  },
+  "0392": {
+    "ID": "0392",
+    "Content": "dingaling (Rank F, Round 2)"
+  },
+  "0393": {
+    "ID": "0393",
+    "Content": "jargon (Rank F, Round 2)"
+  },
+  "0394": {
+    "ID": "0394",
+    "Content": "dancing devil (Rank F, Round 3)"
+  },
+  "0395": {
+    "ID": "0395",
+    "Content": "wailin' weed (Rank F, Round 3)"
+  },
+  "0396": {
+    "ID": "0396",
+    "Content": "redtail hipster (Rank F, Round 3)"
+  },
+  "0397": {
+    "ID": "0397",
+    "Content": "jailcat (Rank E, Round 1)"
+  },
+  "0398": {
+    "ID": "0398",
+    "Content": "terror tabby (Rank E, Round 1)"
+  },
+  "0399": {
+    "ID": "0399",
+    "Content": "hipster (Rank E, Round 2)"
+  },
+  "039A": {
+    "ID": "039A",
+    "Content": "minidemon (Rank E, Round 2)"
+  },
+  "039B": {
+    "ID": "039B",
+    "Content": "witch (Rank E, Round 2)"
+  },
+  "039C": {
+    "ID": "039C",
+    "Content": "magic marionette (Rank E, Round 3)"
+  },
+  "039D": {
+    "ID": "039D",
+    "Content": "tap devil (Rank E, Round 3)"
+  },
+  "039E": {
+    "ID": "039E",
+    "Content": "Volpone (Rank E, Round 3)"
+  },
+  "039F": {
+    "ID": "039F",
+    "Content": "night fox (Rank D, Round 1)"
+  },
+  "03A0": {
+    "ID": "03A0",
+    "Content": "night emperor (Rank D, Round 1)"
+  },
+  "03A1": {
+    "ID": "03A1",
+    "Content": "night sneaker (Rank D, Round 1)"
+  },
+  "03A2": {
+    "ID": "03A2",
+    "Content": "skeleton (Rank D, Round 2)"
+  },
+  "03A3": {
+    "ID": "03A3",
+    "Content": "walking corpse (Rank D, Round 2)"
+  },
+  "03A4": {
+    "ID": "03A4",
+    "Content": "mummy (Rank D, Round 2)"
+  },
+  "03A5": {
+    "ID": "03A5",
+    "Content": "brownie (Rank D, Round 3)"
+  },
+  "03A6": {
+    "ID": "03A6",
+    "Content": "hood (Rank D, Round 3)"
+  },
+  "03A7": {
+    "ID": "03A7",
+    "Content": "see urchin (Rank C, Round 1)"
+  },
+  "03A8": {
+    "ID": "03A8",
+    "Content": "siren (Rank C, Round 1)"
+  },
+  "03A9": {
+    "ID": "03A9",
+    "Content": "mecha-mynah (Rank C, Round 2)"
+  },
+  "03AA": {
+    "ID": "03AA",
+    "Content": "hunter mech (Rank C, Round 2)"
+  },
+  "03AB": {
+    "ID": "03AB",
+    "Content": "clockwork cuckoo (Rank C, Round 2)"
+  },
+  "03AC": {
+    "ID": "03AC",
+    "Content": "fencing fox (Rank C, Round 3)"
+  },
+  "03AD": {
+    "ID": "03AD",
+    "Content": "bone baron (Rank C, Round 3)"
+  },
+  "03AE": {
+    "ID": "03AE",
+    "Content": "phantom fencer (Rank C, Round 3)"
+  },
+  "03AF": {
+    "ID": "03AF",
+    "Content": "dragurn (Rank B, Round 1)"
+  },
+  "03B0": {
+    "ID": "03B0",
+    "Content": "tyrantosaurus (Rank B, Round 1)"
+  },
+  "03B1": {
+    "ID": "03B1",
+    "Content": "snapdragon (Rank B, Round 1)"
+  },
+  "03B2": {
+    "ID": "03B2",
+    "Content": "stone guardian (Rank B, Round 2)"
+  },
+  "03B3": {
+    "ID": "03B3",
+    "Content": "golem (Rank B, Round 2)"
+  },
+  "03B4": {
+    "ID": "03B4",
+    "Content": "boss troll (Rank B, Round 2)"
+  },
+  "03B5": {
+    "ID": "03B5",
+    "Content": "rockbomb (Rank B, Round 3)"
+  },
+  "03B6": {
+    "ID": "03B6",
+    "Content": "stone golem (Rank B, Round 3)"
+  },
+  "03B7": {
+    "ID": "03B7",
+    "Content": "living statue (Rank B, Round 3)"
+  },
+  "03B8": {
+    "ID": "03B8",
+    "Content": "frou-frou (Rank A, Round 1)"
+  },
+  "03B9": {
+    "ID": "03B9",
+    "Content": "cyclops (Rank A, Round 1)"
+  },
+  "03BA": {
+    "ID": "03BA",
+    "Content": "troll (Rank A, Round 1)"
+  },
+  "03BB": {
+    "ID": "03BB",
+    "Content": "jumping jackal (Rank A, Round 2)"
+  },
+  "03BC": {
+    "ID": "03BC",
+    "Content": "great sabrecat (Rank A, Round 2)"
+  },
+  "03BD": {
+    "ID": "03BD",
+    "Content": "treevil (Rank A, Round 3)"
+  },
+  "03BE": {
+    "ID": "03BE",
+    "Content": "zombie gladiator (Rank A, Round 3)"
+  },
+  "03BF": {
+    "ID": "03BF",
+    "Content": "bomboulder (Rank A, Round 3)"
+  },
+  "03C0": {
+    "ID": "03C0",
+    "Content": "goodybag (Rank S, Round 1)"
+  },
+  "03C1": {
+    "ID": "03C1",
+    "Content": "mimic king (Rank S, Round 1)"
+  },
+  "03C2": {
+    "ID": "03C2",
+    "Content": "mimic (Rank S, Round 1)"
+  },
+  "03C3": {
+    "ID": "03C3",
+    "Content": "dullahan (Rank S, Round 2)"
+  },
+  "03C4": {
+    "ID": "03C4",
+    "Content": "healslime (Rank S, Round 2)"
+  },
+  "03C5": {
+    "ID": "03C5",
+    "Content": "gigantes (Rank S, Round 3)"
+  },
+  "03C6": {
+    "ID": "03C6",
+    "Content": "liquid metal slime (Rank S, Round 3)"
+  },
+  "03C7": {
+    "ID": "03C7",
+    "Content": "hell gladiator (Rank S, Round 3)"
+  },
+  "03C8": {
+    "ID": "03C8",
+    "Content": "cureslime (Rank S, Round 3)"
+  },
+  "03C9": {
+    "ID": "03C9",
+    "Content": "frogface (Rank G, Round 2) (face-up)"
+  },
+  "03CA": {
+    "ID": "03CA",
+    "Content": "slime knight (Rank X, Round 1)"
+  },
+  "03CB": {
+    "ID": "03CB",
+    "Content": "fencing fox (Rank X, Round 1)"
+  },
+  "03CC": {
+    "ID": "03CC",
+    "Content": "restless armour (Rank X, Round 1)"
+  },
+  "03CD": {
+    "ID": "03CD",
+    "Content": "goodybag (Rank X, Round 2)"
+  },
+  "03CE": {
+    "ID": "03CE",
+    "Content": "bone baron (Rank X, Round 2)"
+  },
+  "03CF": {
+    "ID": "03CF",
+    "Content": "gold golem (Rank X, Round 2)"
+  },
+  "03D0": {
+    "ID": "03D0",
+    "Content": "treeface (Rank X, Round 3)"
+  },
+  "03D1": {
+    "ID": "03D1",
+    "Content": "Morrimp (Rank X, Round 3)"
+  },
+  "03D2": {
+    "ID": "03D2",
+    "Content": "treevil (Rank X, Round 3)"
+  }
+}
