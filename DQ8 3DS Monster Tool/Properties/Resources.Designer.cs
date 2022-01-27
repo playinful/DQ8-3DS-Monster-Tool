@@ -91,6 +91,16 @@ namespace DQ8_3DS_Monster_Tool.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon gospel_ring {
+            get {
+                object obj = ResourceManager.GetObject("gospel_ring", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] Items {

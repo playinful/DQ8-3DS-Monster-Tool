@@ -40,7 +40,36 @@ namespace DQ8_3DS_Monster_Tool
             this.saveAsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.closeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.learnAboutMonstersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel_monsterEditor = new System.Windows.Forms.Panel();
+            this.domainUpDown_resistance2 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance1 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance24 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance23 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance18 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance17 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance12 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance11 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance22 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance21 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance20 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance19 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance16 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance15 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance14 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance13 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance10 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance9 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance8 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance7 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance6 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance5 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance4 = new System.Windows.Forms.DomainUpDown();
+            this.domainUpDown_resistance3 = new System.Windows.Forms.DomainUpDown();
             this.label_resist24 = new System.Windows.Forms.Label();
             this.label_resist23 = new System.Windows.Forms.Label();
             this.label_resist22 = new System.Windows.Forms.Label();
@@ -96,7 +125,14 @@ namespace DQ8_3DS_Monster_Tool
             this.label_experience = new System.Windows.Forms.Label();
             this.numericUpDown_experience = new System.Windows.Forms.NumericUpDown();
             this.comboBox_monsterID = new System.Windows.Forms.ComboBox();
+            this.pictureBox_monsterDisplay = new System.Windows.Forms.PictureBox();
             this.panel_encountEditor = new System.Windows.Forms.Panel();
+            this.numericUpDown_Unk2_10 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown_Unk1_10 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown_Unk2_9 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown_Unk1_9 = new System.Windows.Forms.NumericUpDown();
+            this.comboBox_randomEncounter10 = new System.Windows.Forms.ComboBox();
+            this.comboBox_randomEncounter9 = new System.Windows.Forms.ComboBox();
             this.numericUpDown_Unk2_8 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown_Unk1_8 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown_Unk2_6 = new System.Windows.Forms.NumericUpDown();
@@ -124,6 +160,7 @@ namespace DQ8_3DS_Monster_Tool
             this.label_Encounter2 = new System.Windows.Forms.Label();
             this.label_spawnRate1 = new System.Windows.Forms.Label();
             this.label_Encounter1 = new System.Windows.Forms.Label();
+            this.pictureBox_mapDisplay = new System.Windows.Forms.PictureBox();
             this.comboBox_setEncounter2 = new System.Windows.Forms.ComboBox();
             this.numericUpDown_setEncounter_Unk1 = new System.Windows.Forms.NumericUpDown();
             this.comboBox_setEncounter1 = new System.Windows.Forms.ComboBox();
@@ -138,44 +175,7 @@ namespace DQ8_3DS_Monster_Tool
             this.numericUpDown_Unk1_1 = new System.Windows.Forms.NumericUpDown();
             this.comboBox_randomEncounter1 = new System.Windows.Forms.ComboBox();
             this.comboBox_location = new System.Windows.Forms.ComboBox();
-            this.numericUpDown_Unk2_10 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown_Unk1_10 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown_Unk2_9 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown_Unk1_9 = new System.Windows.Forms.NumericUpDown();
-            this.comboBox_randomEncounter10 = new System.Windows.Forms.ComboBox();
-            this.comboBox_randomEncounter9 = new System.Windows.Forms.ComboBox();
-            this.domainUpDown_resistance3 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance4 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance6 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance5 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance10 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance9 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance8 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance7 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance16 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance15 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance14 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance13 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance22 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance21 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance20 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance19 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance24 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance23 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance18 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance17 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance12 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance11 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance1 = new System.Windows.Forms.DomainUpDown();
-            this.domainUpDown_resistance2 = new System.Windows.Forms.DomainUpDown();
-            this.pictureBox_monsterDisplay = new System.Windows.Forms.PictureBox();
-            this.pictureBox_mapDisplay = new System.Windows.Forms.PictureBox();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.learnAboutMonstersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.panel_monsterEditor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Wisdom)).BeginInit();
@@ -186,7 +186,12 @@ namespace DQ8_3DS_Monster_Tool
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_HP)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_gold)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_experience)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_monsterDisplay)).BeginInit();
             this.panel_encountEditor.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_6)).BeginInit();
@@ -202,15 +207,10 @@ namespace DQ8_3DS_Monster_Tool
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_mapDisplay)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_setEncounter_Unk1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_setEncounter_Unk2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_monsterDisplay)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_mapDisplay)).BeginInit();
             this.SuspendLayout();
             // 
             // fileToolStripMenuItem
@@ -296,6 +296,45 @@ namespace DQ8_3DS_Monster_Tool
             this.menuStrip1.Size = new System.Drawing.Size(500, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            // 
+            // helpToolStripMenuItem
+            // 
+            this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.helpToolStripMenuItem1,
+            this.aboutToolStripMenuItem,
+            this.toolStripSeparator1,
+            this.learnAboutMonstersToolStripMenuItem});
+            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+            this.helpToolStripMenuItem.Text = "Help";
+            // 
+            // helpToolStripMenuItem1
+            // 
+            this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
+            this.helpToolStripMenuItem1.ShortcutKeys = System.Windows.Forms.Keys.F1;
+            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.helpToolStripMenuItem1.Text = "Help";
+            this.helpToolStripMenuItem1.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
+            // 
+            // aboutToolStripMenuItem
+            // 
+            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
+            this.aboutToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2;
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aboutToolStripMenuItem.Text = "About";
+            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            // 
+            // learnAboutMonstersToolStripMenuItem
+            // 
+            this.learnAboutMonstersToolStripMenuItem.Name = "learnAboutMonstersToolStripMenuItem";
+            this.learnAboutMonstersToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.learnAboutMonstersToolStripMenuItem.Text = "Learn more...";
+            this.learnAboutMonstersToolStripMenuItem.Click += new System.EventHandler(this.learnAboutMonstersToolStripMenuItem_Click);
             // 
             // panel_monsterEditor
             // 
@@ -386,6 +425,312 @@ namespace DQ8_3DS_Monster_Tool
             this.panel_monsterEditor.Size = new System.Drawing.Size(500, 430);
             this.panel_monsterEditor.TabIndex = 123;
             this.panel_monsterEditor.Visible = false;
+            // 
+            // domainUpDown_resistance2
+            // 
+            this.domainUpDown_resistance2.Enabled = false;
+            this.domainUpDown_resistance2.Location = new System.Drawing.Point(92, 279);
+            this.domainUpDown_resistance2.Name = "domainUpDown_resistance2";
+            this.domainUpDown_resistance2.ReadOnly = true;
+            this.domainUpDown_resistance2.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance2.TabIndex = 19;
+            this.domainUpDown_resistance2.Text = "???";
+            // 
+            // domainUpDown_resistance1
+            // 
+            this.domainUpDown_resistance1.Enabled = false;
+            this.domainUpDown_resistance1.Location = new System.Drawing.Point(14, 279);
+            this.domainUpDown_resistance1.Name = "domainUpDown_resistance1";
+            this.domainUpDown_resistance1.ReadOnly = true;
+            this.domainUpDown_resistance1.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance1.TabIndex = 18;
+            this.domainUpDown_resistance1.Text = "???";
+            // 
+            // domainUpDown_resistance24
+            // 
+            this.domainUpDown_resistance24.Items.Add("100%");
+            this.domainUpDown_resistance24.Items.Add("50%");
+            this.domainUpDown_resistance24.Items.Add("25%");
+            this.domainUpDown_resistance24.Items.Add("0%");
+            this.domainUpDown_resistance24.Location = new System.Drawing.Point(410, 400);
+            this.domainUpDown_resistance24.Name = "domainUpDown_resistance24";
+            this.domainUpDown_resistance24.ReadOnly = true;
+            this.domainUpDown_resistance24.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance24.TabIndex = 41;
+            this.domainUpDown_resistance24.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance23
+            // 
+            this.domainUpDown_resistance23.Items.Add("100%");
+            this.domainUpDown_resistance23.Items.Add("50%");
+            this.domainUpDown_resistance23.Items.Add("25%");
+            this.domainUpDown_resistance23.Items.Add("0%");
+            this.domainUpDown_resistance23.Location = new System.Drawing.Point(332, 399);
+            this.domainUpDown_resistance23.Name = "domainUpDown_resistance23";
+            this.domainUpDown_resistance23.ReadOnly = true;
+            this.domainUpDown_resistance23.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance23.TabIndex = 40;
+            this.domainUpDown_resistance23.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance18
+            // 
+            this.domainUpDown_resistance18.Items.Add("100%");
+            this.domainUpDown_resistance18.Items.Add("50%");
+            this.domainUpDown_resistance18.Items.Add("15%");
+            this.domainUpDown_resistance18.Items.Add("0%");
+            this.domainUpDown_resistance18.Location = new System.Drawing.Point(410, 360);
+            this.domainUpDown_resistance18.Name = "domainUpDown_resistance18";
+            this.domainUpDown_resistance18.ReadOnly = true;
+            this.domainUpDown_resistance18.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance18.TabIndex = 35;
+            this.domainUpDown_resistance18.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance17
+            // 
+            this.domainUpDown_resistance17.Items.Add("100%");
+            this.domainUpDown_resistance17.Items.Add("50%");
+            this.domainUpDown_resistance17.Items.Add("15%");
+            this.domainUpDown_resistance17.Items.Add("0%");
+            this.domainUpDown_resistance17.Location = new System.Drawing.Point(332, 359);
+            this.domainUpDown_resistance17.Name = "domainUpDown_resistance17";
+            this.domainUpDown_resistance17.ReadOnly = true;
+            this.domainUpDown_resistance17.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance17.TabIndex = 34;
+            this.domainUpDown_resistance17.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance12
+            // 
+            this.domainUpDown_resistance12.Items.Add("100%");
+            this.domainUpDown_resistance12.Items.Add("50%");
+            this.domainUpDown_resistance12.Items.Add("15%");
+            this.domainUpDown_resistance12.Items.Add("0%");
+            this.domainUpDown_resistance12.Location = new System.Drawing.Point(410, 320);
+            this.domainUpDown_resistance12.Name = "domainUpDown_resistance12";
+            this.domainUpDown_resistance12.ReadOnly = true;
+            this.domainUpDown_resistance12.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance12.TabIndex = 29;
+            this.domainUpDown_resistance12.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance11
+            // 
+            this.domainUpDown_resistance11.Items.Add("100%");
+            this.domainUpDown_resistance11.Items.Add("50%");
+            this.domainUpDown_resistance11.Items.Add("15%");
+            this.domainUpDown_resistance11.Items.Add("0%");
+            this.domainUpDown_resistance11.Location = new System.Drawing.Point(332, 319);
+            this.domainUpDown_resistance11.Name = "domainUpDown_resistance11";
+            this.domainUpDown_resistance11.ReadOnly = true;
+            this.domainUpDown_resistance11.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance11.TabIndex = 28;
+            this.domainUpDown_resistance11.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance22
+            // 
+            this.domainUpDown_resistance22.Items.Add("100%");
+            this.domainUpDown_resistance22.Items.Add("50%");
+            this.domainUpDown_resistance22.Items.Add("25%");
+            this.domainUpDown_resistance22.Items.Add("0%");
+            this.domainUpDown_resistance22.Location = new System.Drawing.Point(251, 400);
+            this.domainUpDown_resistance22.Name = "domainUpDown_resistance22";
+            this.domainUpDown_resistance22.ReadOnly = true;
+            this.domainUpDown_resistance22.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance22.TabIndex = 39;
+            this.domainUpDown_resistance22.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance21
+            // 
+            this.domainUpDown_resistance21.Items.Add("100%");
+            this.domainUpDown_resistance21.Items.Add("50%");
+            this.domainUpDown_resistance21.Items.Add("25%");
+            this.domainUpDown_resistance21.Items.Add("0%");
+            this.domainUpDown_resistance21.Location = new System.Drawing.Point(173, 399);
+            this.domainUpDown_resistance21.Name = "domainUpDown_resistance21";
+            this.domainUpDown_resistance21.ReadOnly = true;
+            this.domainUpDown_resistance21.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance21.TabIndex = 38;
+            this.domainUpDown_resistance21.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance20
+            // 
+            this.domainUpDown_resistance20.Items.Add("100%");
+            this.domainUpDown_resistance20.Items.Add("50%");
+            this.domainUpDown_resistance20.Items.Add("15%");
+            this.domainUpDown_resistance20.Items.Add("0%");
+            this.domainUpDown_resistance20.Location = new System.Drawing.Point(92, 400);
+            this.domainUpDown_resistance20.Name = "domainUpDown_resistance20";
+            this.domainUpDown_resistance20.ReadOnly = true;
+            this.domainUpDown_resistance20.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance20.TabIndex = 37;
+            this.domainUpDown_resistance20.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance19
+            // 
+            this.domainUpDown_resistance19.Items.Add("100%");
+            this.domainUpDown_resistance19.Items.Add("50%");
+            this.domainUpDown_resistance19.Items.Add("15%");
+            this.domainUpDown_resistance19.Items.Add("0%");
+            this.domainUpDown_resistance19.Location = new System.Drawing.Point(14, 399);
+            this.domainUpDown_resistance19.Name = "domainUpDown_resistance19";
+            this.domainUpDown_resistance19.ReadOnly = true;
+            this.domainUpDown_resistance19.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance19.TabIndex = 36;
+            this.domainUpDown_resistance19.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance16
+            // 
+            this.domainUpDown_resistance16.Items.Add("100%");
+            this.domainUpDown_resistance16.Items.Add("50%");
+            this.domainUpDown_resistance16.Items.Add("15%");
+            this.domainUpDown_resistance16.Items.Add("0%");
+            this.domainUpDown_resistance16.Location = new System.Drawing.Point(251, 360);
+            this.domainUpDown_resistance16.Name = "domainUpDown_resistance16";
+            this.domainUpDown_resistance16.ReadOnly = true;
+            this.domainUpDown_resistance16.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance16.TabIndex = 33;
+            this.domainUpDown_resistance16.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance15
+            // 
+            this.domainUpDown_resistance15.Items.Add("100%");
+            this.domainUpDown_resistance15.Items.Add("50%");
+            this.domainUpDown_resistance15.Items.Add("15%");
+            this.domainUpDown_resistance15.Items.Add("0%");
+            this.domainUpDown_resistance15.Location = new System.Drawing.Point(173, 359);
+            this.domainUpDown_resistance15.Name = "domainUpDown_resistance15";
+            this.domainUpDown_resistance15.ReadOnly = true;
+            this.domainUpDown_resistance15.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance15.TabIndex = 32;
+            this.domainUpDown_resistance15.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance14
+            // 
+            this.domainUpDown_resistance14.Items.Add("100%");
+            this.domainUpDown_resistance14.Items.Add("50%");
+            this.domainUpDown_resistance14.Items.Add("15%");
+            this.domainUpDown_resistance14.Items.Add("0%");
+            this.domainUpDown_resistance14.Location = new System.Drawing.Point(92, 360);
+            this.domainUpDown_resistance14.Name = "domainUpDown_resistance14";
+            this.domainUpDown_resistance14.ReadOnly = true;
+            this.domainUpDown_resistance14.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance14.TabIndex = 31;
+            this.domainUpDown_resistance14.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance13
+            // 
+            this.domainUpDown_resistance13.Items.Add("100%");
+            this.domainUpDown_resistance13.Items.Add("50%");
+            this.domainUpDown_resistance13.Items.Add("15%");
+            this.domainUpDown_resistance13.Items.Add("0%");
+            this.domainUpDown_resistance13.Location = new System.Drawing.Point(14, 359);
+            this.domainUpDown_resistance13.Name = "domainUpDown_resistance13";
+            this.domainUpDown_resistance13.ReadOnly = true;
+            this.domainUpDown_resistance13.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance13.TabIndex = 30;
+            this.domainUpDown_resistance13.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance10
+            // 
+            this.domainUpDown_resistance10.Items.Add("100%");
+            this.domainUpDown_resistance10.Items.Add("50%");
+            this.domainUpDown_resistance10.Items.Add("15%");
+            this.domainUpDown_resistance10.Items.Add("0%");
+            this.domainUpDown_resistance10.Location = new System.Drawing.Point(251, 320);
+            this.domainUpDown_resistance10.Name = "domainUpDown_resistance10";
+            this.domainUpDown_resistance10.ReadOnly = true;
+            this.domainUpDown_resistance10.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance10.TabIndex = 27;
+            this.domainUpDown_resistance10.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance9
+            // 
+            this.domainUpDown_resistance9.Items.Add("100%");
+            this.domainUpDown_resistance9.Items.Add("50%");
+            this.domainUpDown_resistance9.Items.Add("15%");
+            this.domainUpDown_resistance9.Items.Add("0%");
+            this.domainUpDown_resistance9.Location = new System.Drawing.Point(173, 319);
+            this.domainUpDown_resistance9.Name = "domainUpDown_resistance9";
+            this.domainUpDown_resistance9.ReadOnly = true;
+            this.domainUpDown_resistance9.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance9.TabIndex = 26;
+            this.domainUpDown_resistance9.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance8
+            // 
+            this.domainUpDown_resistance8.Items.Add("100%");
+            this.domainUpDown_resistance8.Items.Add("50%");
+            this.domainUpDown_resistance8.Items.Add("25%");
+            this.domainUpDown_resistance8.Items.Add("0%");
+            this.domainUpDown_resistance8.Location = new System.Drawing.Point(92, 320);
+            this.domainUpDown_resistance8.Name = "domainUpDown_resistance8";
+            this.domainUpDown_resistance8.ReadOnly = true;
+            this.domainUpDown_resistance8.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance8.TabIndex = 25;
+            this.domainUpDown_resistance8.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance7
+            // 
+            this.domainUpDown_resistance7.Items.Add("100%");
+            this.domainUpDown_resistance7.Items.Add("50%");
+            this.domainUpDown_resistance7.Items.Add("25%");
+            this.domainUpDown_resistance7.Items.Add("0%");
+            this.domainUpDown_resistance7.Location = new System.Drawing.Point(14, 319);
+            this.domainUpDown_resistance7.Name = "domainUpDown_resistance7";
+            this.domainUpDown_resistance7.ReadOnly = true;
+            this.domainUpDown_resistance7.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance7.TabIndex = 24;
+            this.domainUpDown_resistance7.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance6
+            // 
+            this.domainUpDown_resistance6.Items.Add("100%");
+            this.domainUpDown_resistance6.Items.Add("50%");
+            this.domainUpDown_resistance6.Items.Add("25%");
+            this.domainUpDown_resistance6.Items.Add("0%");
+            this.domainUpDown_resistance6.Location = new System.Drawing.Point(410, 280);
+            this.domainUpDown_resistance6.Name = "domainUpDown_resistance6";
+            this.domainUpDown_resistance6.ReadOnly = true;
+            this.domainUpDown_resistance6.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance6.TabIndex = 23;
+            this.domainUpDown_resistance6.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance5
+            // 
+            this.domainUpDown_resistance5.Items.Add("100%");
+            this.domainUpDown_resistance5.Items.Add("50%");
+            this.domainUpDown_resistance5.Items.Add("25%");
+            this.domainUpDown_resistance5.Items.Add("0%");
+            this.domainUpDown_resistance5.Location = new System.Drawing.Point(332, 279);
+            this.domainUpDown_resistance5.Name = "domainUpDown_resistance5";
+            this.domainUpDown_resistance5.ReadOnly = true;
+            this.domainUpDown_resistance5.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance5.TabIndex = 22;
+            this.domainUpDown_resistance5.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance4
+            // 
+            this.domainUpDown_resistance4.Items.Add("100%");
+            this.domainUpDown_resistance4.Items.Add("50%");
+            this.domainUpDown_resistance4.Items.Add("25%");
+            this.domainUpDown_resistance4.Items.Add("0%");
+            this.domainUpDown_resistance4.Location = new System.Drawing.Point(251, 280);
+            this.domainUpDown_resistance4.Name = "domainUpDown_resistance4";
+            this.domainUpDown_resistance4.ReadOnly = true;
+            this.domainUpDown_resistance4.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance4.TabIndex = 21;
+            this.domainUpDown_resistance4.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
+            // 
+            // domainUpDown_resistance3
+            // 
+            this.domainUpDown_resistance3.Items.Add("100%");
+            this.domainUpDown_resistance3.Items.Add("50%");
+            this.domainUpDown_resistance3.Items.Add("25%");
+            this.domainUpDown_resistance3.Items.Add("0%");
+            this.domainUpDown_resistance3.Location = new System.Drawing.Point(173, 279);
+            this.domainUpDown_resistance3.Name = "domainUpDown_resistance3";
+            this.domainUpDown_resistance3.ReadOnly = true;
+            this.domainUpDown_resistance3.Size = new System.Drawing.Size(51, 20);
+            this.domainUpDown_resistance3.TabIndex = 20;
+            this.domainUpDown_resistance3.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
             // 
             // label_resist24
             // 
@@ -960,6 +1305,16 @@ namespace DQ8_3DS_Monster_Tool
             this.comboBox_monsterID.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_monsterID_KeyUp);
             this.comboBox_monsterID.Validated += new System.EventHandler(this.comboBox_monsterID_Validated);
             // 
+            // pictureBox_monsterDisplay
+            // 
+            this.pictureBox_monsterDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox_monsterDisplay.ErrorImage = ((System.Drawing.Image)(resources.GetObject("pictureBox_monsterDisplay.ErrorImage")));
+            this.pictureBox_monsterDisplay.Location = new System.Drawing.Point(14, 46);
+            this.pictureBox_monsterDisplay.Name = "pictureBox_monsterDisplay";
+            this.pictureBox_monsterDisplay.Size = new System.Drawing.Size(150, 150);
+            this.pictureBox_monsterDisplay.TabIndex = 123;
+            this.pictureBox_monsterDisplay.TabStop = false;
+            // 
             // panel_encountEditor
             // 
             this.panel_encountEditor.Controls.Add(this.numericUpDown_Unk2_10);
@@ -1015,6 +1370,84 @@ namespace DQ8_3DS_Monster_Tool
             this.panel_encountEditor.Size = new System.Drawing.Size(500, 430);
             this.panel_encountEditor.TabIndex = 124;
             this.panel_encountEditor.Visible = false;
+            // 
+            // numericUpDown_Unk2_10
+            // 
+            this.numericUpDown_Unk2_10.Location = new System.Drawing.Point(457, 329);
+            this.numericUpDown_Unk2_10.Maximum = new decimal(new int[] {
+            255,
+            0,
+            0,
+            0});
+            this.numericUpDown_Unk2_10.Name = "numericUpDown_Unk2_10";
+            this.numericUpDown_Unk2_10.Size = new System.Drawing.Size(33, 20);
+            this.numericUpDown_Unk2_10.TabIndex = 81;
+            this.numericUpDown_Unk2_10.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
+            // 
+            // numericUpDown_Unk1_10
+            // 
+            this.numericUpDown_Unk1_10.Location = new System.Drawing.Point(418, 329);
+            this.numericUpDown_Unk1_10.Maximum = new decimal(new int[] {
+            255,
+            0,
+            0,
+            0});
+            this.numericUpDown_Unk1_10.Name = "numericUpDown_Unk1_10";
+            this.numericUpDown_Unk1_10.Size = new System.Drawing.Size(33, 20);
+            this.numericUpDown_Unk1_10.TabIndex = 80;
+            this.numericUpDown_Unk1_10.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
+            // 
+            // numericUpDown_Unk2_9
+            // 
+            this.numericUpDown_Unk2_9.Location = new System.Drawing.Point(214, 331);
+            this.numericUpDown_Unk2_9.Maximum = new decimal(new int[] {
+            255,
+            0,
+            0,
+            0});
+            this.numericUpDown_Unk2_9.Name = "numericUpDown_Unk2_9";
+            this.numericUpDown_Unk2_9.Size = new System.Drawing.Size(33, 20);
+            this.numericUpDown_Unk2_9.TabIndex = 78;
+            this.numericUpDown_Unk2_9.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
+            // 
+            // numericUpDown_Unk1_9
+            // 
+            this.numericUpDown_Unk1_9.Location = new System.Drawing.Point(175, 331);
+            this.numericUpDown_Unk1_9.Maximum = new decimal(new int[] {
+            255,
+            0,
+            0,
+            0});
+            this.numericUpDown_Unk1_9.Name = "numericUpDown_Unk1_9";
+            this.numericUpDown_Unk1_9.Size = new System.Drawing.Size(33, 20);
+            this.numericUpDown_Unk1_9.TabIndex = 77;
+            this.numericUpDown_Unk1_9.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
+            // 
+            // comboBox_randomEncounter10
+            // 
+            this.comboBox_randomEncounter10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+            this.comboBox_randomEncounter10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox_randomEncounter10.FormattingEnabled = true;
+            this.comboBox_randomEncounter10.Location = new System.Drawing.Point(257, 329);
+            this.comboBox_randomEncounter10.Name = "comboBox_randomEncounter10";
+            this.comboBox_randomEncounter10.Size = new System.Drawing.Size(155, 21);
+            this.comboBox_randomEncounter10.TabIndex = 79;
+            this.comboBox_randomEncounter10.SelectedIndexChanged += new System.EventHandler(this.comboBox_randomEncounter_SelectedIndexChanged);
+            this.comboBox_randomEncounter10.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_randomEncounter_KeyUp);
+            this.comboBox_randomEncounter10.Validated += new System.EventHandler(this.comboBox_randomEncounter_Validated);
+            // 
+            // comboBox_randomEncounter9
+            // 
+            this.comboBox_randomEncounter9.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+            this.comboBox_randomEncounter9.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox_randomEncounter9.FormattingEnabled = true;
+            this.comboBox_randomEncounter9.Location = new System.Drawing.Point(14, 331);
+            this.comboBox_randomEncounter9.Name = "comboBox_randomEncounter9";
+            this.comboBox_randomEncounter9.Size = new System.Drawing.Size(155, 21);
+            this.comboBox_randomEncounter9.TabIndex = 76;
+            this.comboBox_randomEncounter9.SelectedIndexChanged += new System.EventHandler(this.comboBox_randomEncounter_SelectedIndexChanged);
+            this.comboBox_randomEncounter9.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_randomEncounter_KeyUp);
+            this.comboBox_randomEncounter9.Validated += new System.EventHandler(this.comboBox_randomEncounter_Validated);
             // 
             // numericUpDown_Unk2_8
             // 
@@ -1319,6 +1752,16 @@ namespace DQ8_3DS_Monster_Tool
             this.label_Encounter1.TabIndex = 32;
             this.label_Encounter1.Text = "Monster";
             // 
+            // pictureBox_mapDisplay
+            // 
+            this.pictureBox_mapDisplay.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pictureBox_mapDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox_mapDisplay.Location = new System.Drawing.Point(152, 30);
+            this.pictureBox_mapDisplay.Name = "pictureBox_mapDisplay";
+            this.pictureBox_mapDisplay.Size = new System.Drawing.Size(200, 150);
+            this.pictureBox_mapDisplay.TabIndex = 30;
+            this.pictureBox_mapDisplay.TabStop = false;
+            // 
             // comboBox_setEncounter2
             // 
             this.comboBox_setEncounter2.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
@@ -1501,449 +1944,6 @@ namespace DQ8_3DS_Monster_Tool
             this.comboBox_location.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_location_KeyUp);
             this.comboBox_location.Validated += new System.EventHandler(this.comboBox_location_Validated);
             // 
-            // numericUpDown_Unk2_10
-            // 
-            this.numericUpDown_Unk2_10.Location = new System.Drawing.Point(457, 329);
-            this.numericUpDown_Unk2_10.Maximum = new decimal(new int[] {
-            255,
-            0,
-            0,
-            0});
-            this.numericUpDown_Unk2_10.Name = "numericUpDown_Unk2_10";
-            this.numericUpDown_Unk2_10.Size = new System.Drawing.Size(33, 20);
-            this.numericUpDown_Unk2_10.TabIndex = 81;
-            this.numericUpDown_Unk2_10.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
-            // 
-            // numericUpDown_Unk1_10
-            // 
-            this.numericUpDown_Unk1_10.Location = new System.Drawing.Point(418, 329);
-            this.numericUpDown_Unk1_10.Maximum = new decimal(new int[] {
-            255,
-            0,
-            0,
-            0});
-            this.numericUpDown_Unk1_10.Name = "numericUpDown_Unk1_10";
-            this.numericUpDown_Unk1_10.Size = new System.Drawing.Size(33, 20);
-            this.numericUpDown_Unk1_10.TabIndex = 80;
-            this.numericUpDown_Unk1_10.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
-            // 
-            // numericUpDown_Unk2_9
-            // 
-            this.numericUpDown_Unk2_9.Location = new System.Drawing.Point(214, 331);
-            this.numericUpDown_Unk2_9.Maximum = new decimal(new int[] {
-            255,
-            0,
-            0,
-            0});
-            this.numericUpDown_Unk2_9.Name = "numericUpDown_Unk2_9";
-            this.numericUpDown_Unk2_9.Size = new System.Drawing.Size(33, 20);
-            this.numericUpDown_Unk2_9.TabIndex = 78;
-            this.numericUpDown_Unk2_9.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
-            // 
-            // numericUpDown_Unk1_9
-            // 
-            this.numericUpDown_Unk1_9.Location = new System.Drawing.Point(175, 331);
-            this.numericUpDown_Unk1_9.Maximum = new decimal(new int[] {
-            255,
-            0,
-            0,
-            0});
-            this.numericUpDown_Unk1_9.Name = "numericUpDown_Unk1_9";
-            this.numericUpDown_Unk1_9.Size = new System.Drawing.Size(33, 20);
-            this.numericUpDown_Unk1_9.TabIndex = 77;
-            this.numericUpDown_Unk1_9.ValueChanged += new System.EventHandler(this.encountTable_ValueChanged);
-            // 
-            // comboBox_randomEncounter10
-            // 
-            this.comboBox_randomEncounter10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
-            this.comboBox_randomEncounter10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.comboBox_randomEncounter10.FormattingEnabled = true;
-            this.comboBox_randomEncounter10.Location = new System.Drawing.Point(257, 329);
-            this.comboBox_randomEncounter10.Name = "comboBox_randomEncounter10";
-            this.comboBox_randomEncounter10.Size = new System.Drawing.Size(155, 21);
-            this.comboBox_randomEncounter10.TabIndex = 79;
-            this.comboBox_randomEncounter10.SelectedIndexChanged += new System.EventHandler(this.comboBox_randomEncounter_SelectedIndexChanged);
-            this.comboBox_randomEncounter10.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_randomEncounter_KeyUp);
-            this.comboBox_randomEncounter10.Validated += new System.EventHandler(this.comboBox_randomEncounter_Validated);
-            // 
-            // comboBox_randomEncounter9
-            // 
-            this.comboBox_randomEncounter9.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
-            this.comboBox_randomEncounter9.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.comboBox_randomEncounter9.FormattingEnabled = true;
-            this.comboBox_randomEncounter9.Location = new System.Drawing.Point(14, 331);
-            this.comboBox_randomEncounter9.Name = "comboBox_randomEncounter9";
-            this.comboBox_randomEncounter9.Size = new System.Drawing.Size(155, 21);
-            this.comboBox_randomEncounter9.TabIndex = 76;
-            this.comboBox_randomEncounter9.SelectedIndexChanged += new System.EventHandler(this.comboBox_randomEncounter_SelectedIndexChanged);
-            this.comboBox_randomEncounter9.KeyUp += new System.Windows.Forms.KeyEventHandler(this.comboBox_randomEncounter_KeyUp);
-            this.comboBox_randomEncounter9.Validated += new System.EventHandler(this.comboBox_randomEncounter_Validated);
-            // 
-            // domainUpDown_resistance3
-            // 
-            this.domainUpDown_resistance3.Items.Add("100%");
-            this.domainUpDown_resistance3.Items.Add("50%");
-            this.domainUpDown_resistance3.Items.Add("25%");
-            this.domainUpDown_resistance3.Items.Add("0%");
-            this.domainUpDown_resistance3.Location = new System.Drawing.Point(173, 279);
-            this.domainUpDown_resistance3.Name = "domainUpDown_resistance3";
-            this.domainUpDown_resistance3.ReadOnly = true;
-            this.domainUpDown_resistance3.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance3.TabIndex = 20;
-            this.domainUpDown_resistance3.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance4
-            // 
-            this.domainUpDown_resistance4.Items.Add("100%");
-            this.domainUpDown_resistance4.Items.Add("50%");
-            this.domainUpDown_resistance4.Items.Add("25%");
-            this.domainUpDown_resistance4.Items.Add("0%");
-            this.domainUpDown_resistance4.Location = new System.Drawing.Point(251, 280);
-            this.domainUpDown_resistance4.Name = "domainUpDown_resistance4";
-            this.domainUpDown_resistance4.ReadOnly = true;
-            this.domainUpDown_resistance4.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance4.TabIndex = 21;
-            this.domainUpDown_resistance4.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance6
-            // 
-            this.domainUpDown_resistance6.Items.Add("100%");
-            this.domainUpDown_resistance6.Items.Add("50%");
-            this.domainUpDown_resistance6.Items.Add("25%");
-            this.domainUpDown_resistance6.Items.Add("0%");
-            this.domainUpDown_resistance6.Location = new System.Drawing.Point(410, 280);
-            this.domainUpDown_resistance6.Name = "domainUpDown_resistance6";
-            this.domainUpDown_resistance6.ReadOnly = true;
-            this.domainUpDown_resistance6.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance6.TabIndex = 23;
-            this.domainUpDown_resistance6.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance5
-            // 
-            this.domainUpDown_resistance5.Items.Add("100%");
-            this.domainUpDown_resistance5.Items.Add("50%");
-            this.domainUpDown_resistance5.Items.Add("25%");
-            this.domainUpDown_resistance5.Items.Add("0%");
-            this.domainUpDown_resistance5.Location = new System.Drawing.Point(332, 279);
-            this.domainUpDown_resistance5.Name = "domainUpDown_resistance5";
-            this.domainUpDown_resistance5.ReadOnly = true;
-            this.domainUpDown_resistance5.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance5.TabIndex = 22;
-            this.domainUpDown_resistance5.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance10
-            // 
-            this.domainUpDown_resistance10.Items.Add("100%");
-            this.domainUpDown_resistance10.Items.Add("50%");
-            this.domainUpDown_resistance10.Items.Add("15%");
-            this.domainUpDown_resistance10.Items.Add("0%");
-            this.domainUpDown_resistance10.Location = new System.Drawing.Point(251, 320);
-            this.domainUpDown_resistance10.Name = "domainUpDown_resistance10";
-            this.domainUpDown_resistance10.ReadOnly = true;
-            this.domainUpDown_resistance10.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance10.TabIndex = 27;
-            this.domainUpDown_resistance10.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance9
-            // 
-            this.domainUpDown_resistance9.Items.Add("100%");
-            this.domainUpDown_resistance9.Items.Add("50%");
-            this.domainUpDown_resistance9.Items.Add("15%");
-            this.domainUpDown_resistance9.Items.Add("0%");
-            this.domainUpDown_resistance9.Location = new System.Drawing.Point(173, 319);
-            this.domainUpDown_resistance9.Name = "domainUpDown_resistance9";
-            this.domainUpDown_resistance9.ReadOnly = true;
-            this.domainUpDown_resistance9.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance9.TabIndex = 26;
-            this.domainUpDown_resistance9.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance8
-            // 
-            this.domainUpDown_resistance8.Items.Add("100%");
-            this.domainUpDown_resistance8.Items.Add("50%");
-            this.domainUpDown_resistance8.Items.Add("25%");
-            this.domainUpDown_resistance8.Items.Add("0%");
-            this.domainUpDown_resistance8.Location = new System.Drawing.Point(92, 320);
-            this.domainUpDown_resistance8.Name = "domainUpDown_resistance8";
-            this.domainUpDown_resistance8.ReadOnly = true;
-            this.domainUpDown_resistance8.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance8.TabIndex = 25;
-            this.domainUpDown_resistance8.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance7
-            // 
-            this.domainUpDown_resistance7.Items.Add("100%");
-            this.domainUpDown_resistance7.Items.Add("50%");
-            this.domainUpDown_resistance7.Items.Add("25%");
-            this.domainUpDown_resistance7.Items.Add("0%");
-            this.domainUpDown_resistance7.Location = new System.Drawing.Point(14, 319);
-            this.domainUpDown_resistance7.Name = "domainUpDown_resistance7";
-            this.domainUpDown_resistance7.ReadOnly = true;
-            this.domainUpDown_resistance7.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance7.TabIndex = 24;
-            this.domainUpDown_resistance7.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance16
-            // 
-            this.domainUpDown_resistance16.Items.Add("100%");
-            this.domainUpDown_resistance16.Items.Add("50%");
-            this.domainUpDown_resistance16.Items.Add("15%");
-            this.domainUpDown_resistance16.Items.Add("0%");
-            this.domainUpDown_resistance16.Location = new System.Drawing.Point(251, 360);
-            this.domainUpDown_resistance16.Name = "domainUpDown_resistance16";
-            this.domainUpDown_resistance16.ReadOnly = true;
-            this.domainUpDown_resistance16.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance16.TabIndex = 33;
-            this.domainUpDown_resistance16.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance15
-            // 
-            this.domainUpDown_resistance15.Items.Add("100%");
-            this.domainUpDown_resistance15.Items.Add("50%");
-            this.domainUpDown_resistance15.Items.Add("15%");
-            this.domainUpDown_resistance15.Items.Add("0%");
-            this.domainUpDown_resistance15.Location = new System.Drawing.Point(173, 359);
-            this.domainUpDown_resistance15.Name = "domainUpDown_resistance15";
-            this.domainUpDown_resistance15.ReadOnly = true;
-            this.domainUpDown_resistance15.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance15.TabIndex = 32;
-            this.domainUpDown_resistance15.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance14
-            // 
-            this.domainUpDown_resistance14.Items.Add("100%");
-            this.domainUpDown_resistance14.Items.Add("50%");
-            this.domainUpDown_resistance14.Items.Add("15%");
-            this.domainUpDown_resistance14.Items.Add("0%");
-            this.domainUpDown_resistance14.Location = new System.Drawing.Point(92, 360);
-            this.domainUpDown_resistance14.Name = "domainUpDown_resistance14";
-            this.domainUpDown_resistance14.ReadOnly = true;
-            this.domainUpDown_resistance14.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance14.TabIndex = 31;
-            this.domainUpDown_resistance14.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance13
-            // 
-            this.domainUpDown_resistance13.Items.Add("100%");
-            this.domainUpDown_resistance13.Items.Add("50%");
-            this.domainUpDown_resistance13.Items.Add("15%");
-            this.domainUpDown_resistance13.Items.Add("0%");
-            this.domainUpDown_resistance13.Location = new System.Drawing.Point(14, 359);
-            this.domainUpDown_resistance13.Name = "domainUpDown_resistance13";
-            this.domainUpDown_resistance13.ReadOnly = true;
-            this.domainUpDown_resistance13.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance13.TabIndex = 30;
-            this.domainUpDown_resistance13.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance22
-            // 
-            this.domainUpDown_resistance22.Items.Add("100%");
-            this.domainUpDown_resistance22.Items.Add("50%");
-            this.domainUpDown_resistance22.Items.Add("25%");
-            this.domainUpDown_resistance22.Items.Add("0%");
-            this.domainUpDown_resistance22.Location = new System.Drawing.Point(251, 400);
-            this.domainUpDown_resistance22.Name = "domainUpDown_resistance22";
-            this.domainUpDown_resistance22.ReadOnly = true;
-            this.domainUpDown_resistance22.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance22.TabIndex = 39;
-            this.domainUpDown_resistance22.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance21
-            // 
-            this.domainUpDown_resistance21.Items.Add("100%");
-            this.domainUpDown_resistance21.Items.Add("50%");
-            this.domainUpDown_resistance21.Items.Add("25%");
-            this.domainUpDown_resistance21.Items.Add("0%");
-            this.domainUpDown_resistance21.Location = new System.Drawing.Point(173, 399);
-            this.domainUpDown_resistance21.Name = "domainUpDown_resistance21";
-            this.domainUpDown_resistance21.ReadOnly = true;
-            this.domainUpDown_resistance21.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance21.TabIndex = 38;
-            this.domainUpDown_resistance21.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance20
-            // 
-            this.domainUpDown_resistance20.Items.Add("100%");
-            this.domainUpDown_resistance20.Items.Add("50%");
-            this.domainUpDown_resistance20.Items.Add("15%");
-            this.domainUpDown_resistance20.Items.Add("0%");
-            this.domainUpDown_resistance20.Location = new System.Drawing.Point(92, 400);
-            this.domainUpDown_resistance20.Name = "domainUpDown_resistance20";
-            this.domainUpDown_resistance20.ReadOnly = true;
-            this.domainUpDown_resistance20.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance20.TabIndex = 37;
-            this.domainUpDown_resistance20.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance19
-            // 
-            this.domainUpDown_resistance19.Items.Add("100%");
-            this.domainUpDown_resistance19.Items.Add("50%");
-            this.domainUpDown_resistance19.Items.Add("15%");
-            this.domainUpDown_resistance19.Items.Add("0%");
-            this.domainUpDown_resistance19.Location = new System.Drawing.Point(14, 399);
-            this.domainUpDown_resistance19.Name = "domainUpDown_resistance19";
-            this.domainUpDown_resistance19.ReadOnly = true;
-            this.domainUpDown_resistance19.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance19.TabIndex = 36;
-            this.domainUpDown_resistance19.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance24
-            // 
-            this.domainUpDown_resistance24.Items.Add("100%");
-            this.domainUpDown_resistance24.Items.Add("50%");
-            this.domainUpDown_resistance24.Items.Add("25%");
-            this.domainUpDown_resistance24.Items.Add("0%");
-            this.domainUpDown_resistance24.Location = new System.Drawing.Point(410, 400);
-            this.domainUpDown_resistance24.Name = "domainUpDown_resistance24";
-            this.domainUpDown_resistance24.ReadOnly = true;
-            this.domainUpDown_resistance24.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance24.TabIndex = 41;
-            this.domainUpDown_resistance24.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance23
-            // 
-            this.domainUpDown_resistance23.Items.Add("100%");
-            this.domainUpDown_resistance23.Items.Add("50%");
-            this.domainUpDown_resistance23.Items.Add("25%");
-            this.domainUpDown_resistance23.Items.Add("0%");
-            this.domainUpDown_resistance23.Location = new System.Drawing.Point(332, 399);
-            this.domainUpDown_resistance23.Name = "domainUpDown_resistance23";
-            this.domainUpDown_resistance23.ReadOnly = true;
-            this.domainUpDown_resistance23.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance23.TabIndex = 40;
-            this.domainUpDown_resistance23.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance18
-            // 
-            this.domainUpDown_resistance18.Items.Add("100%");
-            this.domainUpDown_resistance18.Items.Add("50%");
-            this.domainUpDown_resistance18.Items.Add("15%");
-            this.domainUpDown_resistance18.Items.Add("0%");
-            this.domainUpDown_resistance18.Location = new System.Drawing.Point(410, 360);
-            this.domainUpDown_resistance18.Name = "domainUpDown_resistance18";
-            this.domainUpDown_resistance18.ReadOnly = true;
-            this.domainUpDown_resistance18.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance18.TabIndex = 35;
-            this.domainUpDown_resistance18.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance17
-            // 
-            this.domainUpDown_resistance17.Items.Add("100%");
-            this.domainUpDown_resistance17.Items.Add("50%");
-            this.domainUpDown_resistance17.Items.Add("15%");
-            this.domainUpDown_resistance17.Items.Add("0%");
-            this.domainUpDown_resistance17.Location = new System.Drawing.Point(332, 359);
-            this.domainUpDown_resistance17.Name = "domainUpDown_resistance17";
-            this.domainUpDown_resistance17.ReadOnly = true;
-            this.domainUpDown_resistance17.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance17.TabIndex = 34;
-            this.domainUpDown_resistance17.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance12
-            // 
-            this.domainUpDown_resistance12.Items.Add("100%");
-            this.domainUpDown_resistance12.Items.Add("50%");
-            this.domainUpDown_resistance12.Items.Add("15%");
-            this.domainUpDown_resistance12.Items.Add("0%");
-            this.domainUpDown_resistance12.Location = new System.Drawing.Point(410, 320);
-            this.domainUpDown_resistance12.Name = "domainUpDown_resistance12";
-            this.domainUpDown_resistance12.ReadOnly = true;
-            this.domainUpDown_resistance12.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance12.TabIndex = 29;
-            this.domainUpDown_resistance12.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance11
-            // 
-            this.domainUpDown_resistance11.Items.Add("100%");
-            this.domainUpDown_resistance11.Items.Add("50%");
-            this.domainUpDown_resistance11.Items.Add("15%");
-            this.domainUpDown_resistance11.Items.Add("0%");
-            this.domainUpDown_resistance11.Location = new System.Drawing.Point(332, 319);
-            this.domainUpDown_resistance11.Name = "domainUpDown_resistance11";
-            this.domainUpDown_resistance11.ReadOnly = true;
-            this.domainUpDown_resistance11.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance11.TabIndex = 28;
-            this.domainUpDown_resistance11.SelectedItemChanged += new System.EventHandler(this.domainUpDown_resistance_ValueChanged);
-            // 
-            // domainUpDown_resistance1
-            // 
-            this.domainUpDown_resistance1.Enabled = false;
-            this.domainUpDown_resistance1.Location = new System.Drawing.Point(14, 279);
-            this.domainUpDown_resistance1.Name = "domainUpDown_resistance1";
-            this.domainUpDown_resistance1.ReadOnly = true;
-            this.domainUpDown_resistance1.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance1.TabIndex = 18;
-            this.domainUpDown_resistance1.Text = "???";
-            // 
-            // domainUpDown_resistance2
-            // 
-            this.domainUpDown_resistance2.Enabled = false;
-            this.domainUpDown_resistance2.Location = new System.Drawing.Point(92, 279);
-            this.domainUpDown_resistance2.Name = "domainUpDown_resistance2";
-            this.domainUpDown_resistance2.ReadOnly = true;
-            this.domainUpDown_resistance2.Size = new System.Drawing.Size(51, 20);
-            this.domainUpDown_resistance2.TabIndex = 19;
-            this.domainUpDown_resistance2.Text = "???";
-            // 
-            // pictureBox_monsterDisplay
-            // 
-            this.pictureBox_monsterDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox_monsterDisplay.ErrorImage = ((System.Drawing.Image)(resources.GetObject("pictureBox_monsterDisplay.ErrorImage")));
-            this.pictureBox_monsterDisplay.Location = new System.Drawing.Point(14, 46);
-            this.pictureBox_monsterDisplay.Name = "pictureBox_monsterDisplay";
-            this.pictureBox_monsterDisplay.Size = new System.Drawing.Size(150, 150);
-            this.pictureBox_monsterDisplay.TabIndex = 123;
-            this.pictureBox_monsterDisplay.TabStop = false;
-            // 
-            // pictureBox_mapDisplay
-            // 
-            this.pictureBox_mapDisplay.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pictureBox_mapDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox_mapDisplay.Location = new System.Drawing.Point(152, 30);
-            this.pictureBox_mapDisplay.Name = "pictureBox_mapDisplay";
-            this.pictureBox_mapDisplay.Size = new System.Drawing.Size(200, 150);
-            this.pictureBox_mapDisplay.TabIndex = 30;
-            this.pictureBox_mapDisplay.TabStop = false;
-            // 
-            // helpToolStripMenuItem
-            // 
-            this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.helpToolStripMenuItem1,
-            this.aboutToolStripMenuItem,
-            this.toolStripSeparator1,
-            this.learnAboutMonstersToolStripMenuItem});
-            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
-            this.helpToolStripMenuItem.Text = "Help";
-            // 
-            // helpToolStripMenuItem1
-            // 
-            this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
-            this.helpToolStripMenuItem1.ShortcutKeys = System.Windows.Forms.Keys.F1;
-            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(199, 22);
-            this.helpToolStripMenuItem1.Text = "Help";
-            this.helpToolStripMenuItem1.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
-            // 
-            // aboutToolStripMenuItem
-            // 
-            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2;
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.aboutToolStripMenuItem.Text = "About";
-            this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(196, 6);
-            // 
-            // learnAboutMonstersToolStripMenuItem
-            // 
-            this.learnAboutMonstersToolStripMenuItem.Name = "learnAboutMonstersToolStripMenuItem";
-            this.learnAboutMonstersToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.learnAboutMonstersToolStripMenuItem.Text = "Learn more...";
-            this.learnAboutMonstersToolStripMenuItem.Click += new System.EventHandler(this.learnAboutMonstersToolStripMenuItem_Click);
-            // 
             // MainWindow
             // 
             this.AllowDrop = true;
@@ -1971,8 +1971,13 @@ namespace DQ8_3DS_Monster_Tool
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_HP)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_gold)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_experience)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_monsterDisplay)).EndInit();
             this.panel_encountEditor.ResumeLayout(false);
             this.panel_encountEditor.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_6)).EndInit();
@@ -1988,15 +1993,10 @@ namespace DQ8_3DS_Monster_Tool
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_mapDisplay)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_setEncounter_Unk1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_setEncounter_Unk2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk2_9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown_Unk1_9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_monsterDisplay)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox_mapDisplay)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

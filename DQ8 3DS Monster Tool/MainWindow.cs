@@ -24,6 +24,12 @@ namespace DQ8_3DS_Monster_Tool
             InitializeComponent();
             doToolTips();
             suppressDataUpdate = false;
+
+            string[] args = Environment.GetCommandLineArgs();
+            if (args.Length > 1)
+            {
+                tryOpenFile(args[1]);
+            }
         }
 
         // variables
@@ -147,7 +153,7 @@ namespace DQ8_3DS_Monster_Tool
         }
         private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Process.Start("https://google.com");
+            Process.Start("https://github.com/pIayinful/DQ8-3DS-Monster-Tool/blob/master/README.md");
         }
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
